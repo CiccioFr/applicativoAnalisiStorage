@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <persistence version="2.1" xmlns="http://xmlns.jcp.org/xml/ns/persistence" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/persistence http://xmlns.jcp.org/xml/ns/persistence/persistence_2_1.xsd">
-  <persistence-unit name="inforElea_applicativoAnalisiStorage_jar_0.1.aPU" transaction-type="RESOURCE_LOCAL">
-    <provider>org.eclipse.persistence.jpa.PersistenceProvider</provider>
-    <class>inforelea.applicativoanalisistorage.db.Cliente</class>
-    <class>inforelea.applicativoanalisistorage.db.Acquisto</class>
-    <properties>
-      <property name="javax.persistence.jdbc.url" value="jdbc:mariadb://localhost:3306/negozio"/>
-      <property name="javax.persistence.jdbc.user" value="commerciante"/>
-      <property name="javax.persistence.jdbc.driver" value="org.mariadb.jdbc.Driver"/>
-      <property name="javax.persistence.jdbc.password" value="password"/>
-    </properties>
-  </persistence-unit>
+    <persistence-unit name="negozio" transaction-type="RESOURCE_LOCAL">
+        <provider>org.eclipse.persistence.jpa.PersistenceProvider</provider>
+        <class>inforelea.applicativoanalisistorage.db.Cliente</class>
+        <class>inforelea.applicativoanalisistorage.db.Acquisto</class>
+        <properties>
+            <property name="javax.persistence.jdbc.url" value="jdbc:mariadb://localhost:3306/negozio"/>
+            <property name="javax.persistence.jdbc.user" value="commerciante"/>
+            <property name="javax.persistence.jdbc.driver" value="org.mariadb.jdbc.Driver"/>
+            <property name="javax.persistence.jdbc.password" value="password"/>
+                  <property name="eclipselink.target-database" value="MySQL"/> <!-- senza da problemi per l'autoincremento -->
+        </properties>
+    </persistence-unit>
 </persistence>
