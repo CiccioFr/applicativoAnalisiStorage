@@ -1,5 +1,6 @@
 package inforelea.applicativoanalisistorage;
 
+import inforelea.applicativoanalisistorage.db.Acquisto;
 import inforelea.applicativoanalisistorage.db.Cliente;
 import java.io.BufferedReader;
 import java.io.FileReader;
@@ -88,6 +89,37 @@ public class CaricaFileLog {
         return clienti;
     }
 
+    public static List<Acquisto> salvaOrdini(List<String[]> records) {
+        List<Acquisto> ordini = new ArrayList();
+        int cnt = 0;
+
+        for (String[] record : records) {
+            System.out.println("Leggo record della lista" + record[1]);   // OK
+            if (record[1].equalsIgnoreCase("ACQUISTO")) {
+                Acquisto ordine = new Acquisto();
+                String[] datoKeyValue = null;
+                cnt++;
+
+                ordine.setTimestamp(record[0]);
+
+                String[] datiOrdine = record[2].split(",");
+                System.out.println("dato Cliente" + datiOrdine[0]);       //  feedback
+                //String[] infoId = datiOrdine[0].split("=");
+                String[] infoIdCliente = datiOrdine[1].split("=");
+                String[] infoImporto = datiOrdine[2].split("=");
+                String[] infoProdotto = datiOrdine[2].split("=");
+                
+                ordine.setIdcliente(Integer.parseInt(infoIdCliente[1]) );
+                ordine.setImporto(Integer.parseInt(infoImporto[1]) );
+                ordine.setProdotto(Integer.parseInt(infoProdotto[1]) );
+                
+                ordini.add(ordine);
+            }
+        }
+        System.out.println("Trovati " + cnt + " Ordini");
+        return ordini;
+    }
+    
 //
 //
 //
