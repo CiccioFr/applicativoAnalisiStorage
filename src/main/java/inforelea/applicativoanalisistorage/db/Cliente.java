@@ -32,7 +32,8 @@ import javax.xml.bind.annotation.XmlTransient;
     @NamedQuery(name = "Cliente.findById", query = "SELECT c FROM Cliente c WHERE c.id = :id"),
     @NamedQuery(name = "Cliente.findByCodice", query = "SELECT c FROM Cliente c WHERE c.codice = :codice"),
     @NamedQuery(name = "Cliente.findByNome", query = "SELECT c FROM Cliente c WHERE c.nome = :nome"),
-    @NamedQuery(name = "Cliente.findByCognome", query = "SELECT c FROM Cliente c WHERE c.cognome = :cognome")})
+    @NamedQuery(name = "Cliente.findByCognome", query = "SELECT c FROM Cliente c WHERE c.cognome = :cognome"),
+    @NamedQuery(name = "Cliente.findByTimestamp", query = "SELECT c FROM Cliente c WHERE c.timestamp = :timestamp")})
 public class Cliente implements Serializable {
 
     private static final long serialVersionUID = 1L;
@@ -50,6 +51,9 @@ public class Cliente implements Serializable {
     @Basic(optional = false)
     @Column(name = "cognome")
     private String cognome;
+    @Basic(optional = false)
+    @Column(name = "timestamp")
+    private String timestamp;
     @OneToMany(cascade = CascadeType.ALL, mappedBy = "idcliente")
     private Collection<Acquisto> acquistoCollection;
 
@@ -60,11 +64,12 @@ public class Cliente implements Serializable {
         this.id = id;
     }
 
-    public Cliente(Integer id, int codice, String nome, String cognome) {
+    public Cliente(Integer id, int codice, String nome, String cognome, String timestamp) {
         this.id = id;
         this.codice = codice;
         this.nome = nome;
         this.cognome = cognome;
+        this.timestamp = timestamp;
     }
 
     public Integer getId() {
@@ -97,6 +102,14 @@ public class Cliente implements Serializable {
 
     public void setCognome(String cognome) {
         this.cognome = cognome;
+    }
+
+    public String getTimestamp() {
+        return timestamp;
+    }
+
+    public void setTimestamp(String timestamp) {
+        this.timestamp = timestamp;
     }
 
     @XmlTransient

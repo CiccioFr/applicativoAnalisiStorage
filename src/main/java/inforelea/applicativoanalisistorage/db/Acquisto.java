@@ -29,7 +29,8 @@ import javax.xml.bind.annotation.XmlRootElement;
     @NamedQuery(name = "Acquisto.findAll", query = "SELECT a FROM Acquisto a"),
     @NamedQuery(name = "Acquisto.findById", query = "SELECT a FROM Acquisto a WHERE a.id = :id"),
     @NamedQuery(name = "Acquisto.findByImporto", query = "SELECT a FROM Acquisto a WHERE a.importo = :importo"),
-    @NamedQuery(name = "Acquisto.findByProdotto", query = "SELECT a FROM Acquisto a WHERE a.prodotto = :prodotto")})
+    @NamedQuery(name = "Acquisto.findByProdotto", query = "SELECT a FROM Acquisto a WHERE a.prodotto = :prodotto"),
+    @NamedQuery(name = "Acquisto.findByTimestamp", query = "SELECT a FROM Acquisto a WHERE a.timestamp = :timestamp")})
 public class Acquisto implements Serializable {
 
     private static final long serialVersionUID = 1L;
@@ -44,6 +45,9 @@ public class Acquisto implements Serializable {
     @Basic(optional = false)
     @Column(name = "prodotto")
     private int prodotto;
+    @Basic(optional = false)
+    @Column(name = "timestamp")
+    private String timestamp;
     @JoinColumn(name = "idcliente", referencedColumnName = "id")
     @ManyToOne(optional = false)
     private Cliente idcliente;
@@ -55,10 +59,11 @@ public class Acquisto implements Serializable {
         this.id = id;
     }
 
-    public Acquisto(Integer id, int importo, int prodotto) {
+    public Acquisto(Integer id, int importo, int prodotto, String timestamp) {
         this.id = id;
         this.importo = importo;
         this.prodotto = prodotto;
+        this.timestamp = timestamp;
     }
 
     public Integer getId() {
@@ -83,6 +88,14 @@ public class Acquisto implements Serializable {
 
     public void setProdotto(int prodotto) {
         this.prodotto = prodotto;
+    }
+
+    public String getTimestamp() {
+        return timestamp;
+    }
+
+    public void setTimestamp(String timestamp) {
+        this.timestamp = timestamp;
     }
 
     public Cliente getIdcliente() {
