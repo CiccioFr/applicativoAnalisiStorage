@@ -7,6 +7,7 @@ package inforelea.applicativoanalisistorage.db;
 import java.io.Serializable;
 import java.util.Collection;
 import javax.persistence.Basic;
+import javax.persistence.CascadeType;
 import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
@@ -16,6 +17,8 @@ import javax.persistence.NamedQueries;
 import javax.persistence.NamedQuery;
 import javax.persistence.OneToMany;
 import javax.persistence.Table;
+import javax.xml.bind.annotation.XmlRootElement;
+import javax.xml.bind.annotation.XmlTransient;
 
 /**
  *
@@ -23,6 +26,7 @@ import javax.persistence.Table;
  */
 @Entity
 @Table(name = "clienti")
+@XmlRootElement
 @NamedQueries({
     @NamedQuery(name = "Cliente.findAll", query = "SELECT c FROM Cliente c"),
     @NamedQuery(name = "Cliente.findById", query = "SELECT c FROM Cliente c WHERE c.id = :id"),
@@ -37,15 +41,16 @@ public class Cliente implements Serializable {
     @Basic(optional = false)
     @Column(name = "id")
     private Integer id;
+    @Basic(optional = false)
     @Column(name = "codice")
-    private Integer codice;
+    private int codice;
     @Basic(optional = false)
     @Column(name = "nome")
     private String nome;
     @Basic(optional = false)
     @Column(name = "cognome")
     private String cognome;
-    @OneToMany(mappedBy = "idcliente")
+    @OneToMany(cascade = CascadeType.ALL, mappedBy = "idcliente")
     private Collection<Acquisto> acquistoCollection;
 
     public Cliente() {
@@ -55,8 +60,9 @@ public class Cliente implements Serializable {
         this.id = id;
     }
 
-    public Cliente(Integer id, String nome, String cognome) {
+    public Cliente(Integer id, int codice, String nome, String cognome) {
         this.id = id;
+        this.codice = codice;
         this.nome = nome;
         this.cognome = cognome;
     }
@@ -69,11 +75,11 @@ public class Cliente implements Serializable {
         this.id = id;
     }
 
-    public Integer getCodice() {
+    public int getCodice() {
         return codice;
     }
 
-    public void setCodice(Integer codice) {
+    public void setCodice(int codice) {
         this.codice = codice;
     }
 
@@ -93,6 +99,7 @@ public class Cliente implements Serializable {
         this.cognome = cognome;
     }
 
+    @XmlTransient
     public Collection<Acquisto> getAcquistoCollection() {
         return acquistoCollection;
     }

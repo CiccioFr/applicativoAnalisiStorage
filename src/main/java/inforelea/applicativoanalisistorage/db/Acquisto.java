@@ -16,6 +16,7 @@ import javax.persistence.ManyToOne;
 import javax.persistence.NamedQueries;
 import javax.persistence.NamedQuery;
 import javax.persistence.Table;
+import javax.xml.bind.annotation.XmlRootElement;
 
 /**
  *
@@ -23,6 +24,7 @@ import javax.persistence.Table;
  */
 @Entity
 @Table(name = "acquisti")
+@XmlRootElement
 @NamedQueries({
     @NamedQuery(name = "Acquisto.findAll", query = "SELECT a FROM Acquisto a"),
     @NamedQuery(name = "Acquisto.findById", query = "SELECT a FROM Acquisto a WHERE a.id = :id"),
@@ -36,12 +38,14 @@ public class Acquisto implements Serializable {
     @Basic(optional = false)
     @Column(name = "id")
     private Integer id;
+    @Basic(optional = false)
     @Column(name = "importo")
-    private Integer importo;
+    private int importo;
+    @Basic(optional = false)
     @Column(name = "prodotto")
-    private Integer prodotto;
+    private int prodotto;
     @JoinColumn(name = "idcliente", referencedColumnName = "id")
-    @ManyToOne
+    @ManyToOne(optional = false)
     private Cliente idcliente;
 
     public Acquisto() {
@@ -49,6 +53,12 @@ public class Acquisto implements Serializable {
 
     public Acquisto(Integer id) {
         this.id = id;
+    }
+
+    public Acquisto(Integer id, int importo, int prodotto) {
+        this.id = id;
+        this.importo = importo;
+        this.prodotto = prodotto;
     }
 
     public Integer getId() {
@@ -59,19 +69,19 @@ public class Acquisto implements Serializable {
         this.id = id;
     }
 
-    public Integer getImporto() {
+    public int getImporto() {
         return importo;
     }
 
-    public void setImporto(Integer importo) {
+    public void setImporto(int importo) {
         this.importo = importo;
     }
 
-    public Integer getProdotto() {
+    public int getProdotto() {
         return prodotto;
     }
 
-    public void setProdotto(Integer prodotto) {
+    public void setProdotto(int prodotto) {
         this.prodotto = prodotto;
     }
 
