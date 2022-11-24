@@ -1,0 +1,2000 @@
+2022-01-01 08:09|LOGOUT|########################################
+2022-01-01 08:42|RESO|########################################
+2022-01-01 11:48|CANCELLAZIONE|########################################
+2022-01-01 13:39|REGISTRAZIONE|codice=7362, nome=Gaetano, cognome=Donizzetti
+2022-01-01 17:06|REGISTRAZIONE|codice=7385, nome=Giuseppe, cognome=Ungaretti
+2022-01-01 17:57|ACQUISTO|id=16237, cliente=7385, importo=527, prodotto=19
+2022-01-01 21:42|ACQUISTO|id=16238, cliente=7362, importo=850, prodotto=20
+2022-01-02 08:45|ACQUISTO|id=16239, cliente=7362, importo=831, prodotto=32
+2022-01-02 13:06|ACQUISTO|id=16240, cliente=7362, importo=114, prodotto=33
+2022-01-02 16:48|CANCELLAZIONE|########################################
+2022-01-02 19:21|ACQUISTO|id=16241, cliente=7362, importo=215, prodotto=131
+2022-01-02 23:30|ACQUISTO|id=16242, cliente=7385, importo=722, prodotto=147
+2022-01-02 23:42|ACQUISTO|id=16243, cliente=7385, importo=606, prodotto=72
+2022-01-03 10:33|ACQUISTO|id=16244, cliente=7385, importo=902, prodotto=133
+2022-01-03 11:33|REGISTRAZIONE|codice=7402, nome=Giuseppe, cognome=Verdi
+2022-01-03 16:33|ACQUISTO|id=16245, cliente=7362, importo=461, prodotto=138
+2022-01-03 17:57|TEST|########################################
+2022-01-03 21:09|ACQUISTO|id=16246, cliente=7362, importo=719, prodotto=194
+2022-01-04 08:24|REGISTRAZIONE|codice=7427, nome=Giacomo, cognome=Puccini
+2022-01-04 13:09|ACQUISTO|id=16247, cliente=7402, importo=722, prodotto=147
+2022-01-04 15:15|ACQUISTO|id=16248, cliente=7385, importo=880, prodotto=189
+2022-01-04 17:00|ACQUISTO|id=16249, cliente=7427, importo=408, prodotto=135
+2022-01-04 21:36|RECLAMO|########################################
+2022-01-04 22:21|ACQUISTO|id=16250, cliente=7427, importo=957, prodotto=41
+2022-01-04 22:30|ACQUISTO|id=16251, cliente=7385, importo=736, prodotto=119
+2022-01-05 08:51|ACQUISTO|id=16252, cliente=7402, importo=201, prodotto=174
+2022-01-05 09:21|ACQUISTO|id=16253, cliente=7362, importo=854, prodotto=54
+2022-01-05 10:33|TEST|########################################
+2022-01-05 14:15|ACQUISTO|id=16254, cliente=7385, importo=757, prodotto=114
+2022-01-05 18:06|TEST|########################################
+2022-01-05 18:15|ACQUISTO|id=16255, cliente=7385, importo=831, prodotto=32
+2022-01-05 20:39|ACQUISTO|id=16256, cliente=7362, importo=252, prodotto=5
+2022-01-06 09:36|ACQUISTO|id=16257, cliente=7385, importo=496, prodotto=65
+2022-01-06 10:18|ACQUISTO|id=16258, cliente=7385, importo=289, prodotto=81
+2022-01-06 14:48|RESO|########################################
+2022-01-06 18:09|RESO|########################################
+2022-01-06 18:42|ACQUISTO|id=16259, cliente=7402, importo=752, prodotto=185
+2022-01-06 19:09|LOGIN|########################################
+2022-01-06 19:18|LOGOUT|########################################
+2022-01-06 22:06|ACQUISTO|id=16260, cliente=7402, importo=978, prodotto=149
+2022-01-07 10:51|CANCELLAZIONE|########################################
+2022-01-07 11:09|ACQUISTO|id=16261, cliente=7402, importo=619, prodotto=24
+2022-01-07 12:24|LOGIN|########################################
+2022-01-07 17:03|CANCELLAZIONE|########################################
+2022-01-07 20:57|TEST|########################################
+2022-01-08 09:51|ACQUISTO|id=16262, cliente=7362, importo=225, prodotto=102
+2022-01-08 14:33|LOGOUT|########################################
+2022-01-08 15:12|ACQUISTO|id=16263, cliente=7385, importo=388, prodotto=126
+2022-01-08 17:18|CANCELLAZIONE|########################################
+2022-01-08 18:09|ACQUISTO|id=16264, cliente=7402, importo=606, prodotto=72
+2022-01-08 21:15|ACQUISTO|id=16265, cliente=7362, importo=637, prodotto=85
+2022-01-08 22:15|ACQUISTO|id=16266, cliente=7362, importo=225, prodotto=34
+2022-01-08 23:33|ACQUISTO|id=16267, cliente=7427, importo=221, prodotto=27
+2022-01-09 09:36|ACQUISTO|id=16268, cliente=7427, importo=434, prodotto=157
+2022-01-09 11:57|LOGIN|########################################
+2022-01-09 16:36|ACQUISTO|id=16269, cliente=7427, importo=330, prodotto=139
+2022-01-09 21:06|REGISTRAZIONE|codice=7450, nome=Gioacchino, cognome=Rossini
+2022-01-10 09:36|ACQUISTO|id=16270, cliente=7402, importo=965, prodotto=45
+2022-01-10 10:09|ACQUISTO|id=16271, cliente=7385, importo=289, prodotto=81
+2022-01-10 13:36|RECLAMO|########################################
+2022-01-10 14:21|ACQUISTO|id=16272, cliente=7385, importo=978, prodotto=149
+2022-01-10 15:51|RECLAMO|########################################
+2022-01-10 18:12|ACQUISTO|id=16273, cliente=7385, importo=225, prodotto=34
+2022-01-10 20:39|LOGIN|########################################
+2022-01-10 23:48|ACQUISTO|id=16274, cliente=7362, importo=145, prodotto=74
+2022-01-11 12:33|ACQUISTO|id=16275, cliente=7385, importo=458, prodotto=4
+2022-01-11 17:33|REGISTRAZIONE|codice=7486, nome=Alessandro, cognome=Manzoni
+2022-01-11 17:57|ACQUISTO|id=16276, cliente=7486, importo=82, prodotto=74
+2022-01-11 19:09|ACQUISTO|id=16277, cliente=7427, importo=725, prodotto=194
+2022-01-11 22:39|ACQUISTO|id=16278, cliente=7362, importo=138, prodotto=192
+2022-01-11 23:42|ACQUISTO|id=16279, cliente=7450, importo=181, prodotto=186
+2022-01-12 11:21|CANCELLAZIONE|########################################
+2022-01-12 13:48|REGISTRAZIONE|codice=7499, nome=Giacomo, cognome=Leopardi
+2022-01-12 17:09|TEST|########################################
+2022-01-12 17:45|ACQUISTO|id=16280, cliente=7385, importo=557, prodotto=6
+2022-01-12 22:42|CANCELLAZIONE|########################################
+2022-01-13 08:15|LOGIN|########################################
+2022-01-13 12:24|ACQUISTO|id=16281, cliente=7385, importo=138, prodotto=192
+2022-01-13 14:42|ACQUISTO|id=16282, cliente=7362, importo=557, prodotto=6
+2022-01-13 18:30|RESO|########################################
+2022-01-13 19:00|ACQUISTO|id=16283, cliente=7450, importo=365, prodotto=21
+2022-01-13 21:45|ACQUISTO|id=16284, cliente=7427, importo=108, prodotto=9
+2022-01-13 22:12|LOGOUT|########################################
+2022-01-14 08:54|ACQUISTO|id=16285, cliente=7385, importo=408, prodotto=135
+2022-01-14 13:42|ACQUISTO|id=16286, cliente=7385, importo=114, prodotto=33
+2022-01-14 17:39|REGISTRAZIONE|codice=7513, nome=Dante, cognome=Alighieri
+2022-01-14 17:45|ACQUISTO|id=16287, cliente=7499, importo=854, prodotto=81
+2022-01-14 18:54|ACQUISTO|id=16288, cliente=7513, importo=557, prodotto=6
+2022-01-14 23:18|ACQUISTO|id=16289, cliente=7385, importo=278, prodotto=50
+2022-01-14 23:42|CANCELLAZIONE|########################################
+2022-01-15 09:21|ACQUISTO|id=16290, cliente=7385, importo=520, prodotto=54
+2022-01-15 13:21|ACQUISTO|id=16291, cliente=7486, importo=518, prodotto=141
+2022-01-15 15:00|ACQUISTO|id=16292, cliente=7450, importo=481, prodotto=3
+2022-01-15 16:39|ACQUISTO|id=16293, cliente=7499, importo=574, prodotto=48
+2022-01-15 21:21|ACQUISTO|id=16294, cliente=7499, importo=214, prodotto=164
+2022-01-16 08:18|LOGOUT|########################################
+2022-01-16 11:27|REGISTRAZIONE|codice=7532, nome=Michelangelo, cognome=Buonarroti
+2022-01-16 13:51|RESO|########################################
+2022-01-16 15:06|RESO|########################################
+2022-01-16 15:48|ACQUISTO|id=16295, cliente=7362, importo=434, prodotto=157
+2022-01-16 18:24|ACQUISTO|id=16296, cliente=7402, importo=461, prodotto=138
+2022-01-16 23:12|ACQUISTO|id=16297, cliente=7362, importo=984, prodotto=170
+2022-01-17 10:45|ACQUISTO|id=16298, cliente=7513, importo=984, prodotto=170
+2022-01-17 10:51|ACQUISTO|id=16299, cliente=7532, importo=683, prodotto=58
+2022-01-17 14:03|ACQUISTO|id=16300, cliente=7532, importo=938, prodotto=68
+2022-01-17 18:42|ACQUISTO|id=16301, cliente=7532, importo=117, prodotto=67
+2022-01-17 20:03|ACQUISTO|id=16302, cliente=7362, importo=520, prodotto=171
+2022-01-17 23:12|REGISTRAZIONE|codice=7551, nome=Antonio, cognome=Vivaldi
+2022-01-18 10:12|RESO|########################################
+2022-01-18 12:00|RESO|########################################
+2022-01-18 16:03|ACQUISTO|id=16303, cliente=7362, importo=181, prodotto=186
+2022-01-18 16:45|ACQUISTO|id=16304, cliente=7513, importo=481, prodotto=3
+2022-01-18 19:27|RESO|########################################
+2022-01-18 23:42|ACQUISTO|id=16305, cliente=7513, importo=667, prodotto=52
+2022-01-19 09:15|ACQUISTO|id=16306, cliente=7551, importo=854, prodotto=54
+2022-01-19 12:42|ACQUISTO|id=16307, cliente=7385, importo=535, prodotto=103
+2022-01-19 17:12|ACQUISTO|id=16308, cliente=7532, importo=82, prodotto=74
+2022-01-19 21:09|LOGIN|########################################
+2022-01-19 22:54|ACQUISTO|id=16309, cliente=7532, importo=827, prodotto=188
+2022-01-20 08:51|CANCELLAZIONE|########################################
+2022-01-20 10:15|TEST|########################################
+2022-01-20 14:33|ACQUISTO|id=16310, cliente=7402, importo=137, prodotto=192
+2022-01-20 19:03|LOGIN|########################################
+2022-01-20 22:30|ACQUISTO|id=16311, cliente=7532, importo=181, prodotto=186
+2022-01-20 23:27|LOGIN|########################################
+2022-01-21 10:24|ACQUISTO|id=16312, cliente=7551, importo=461, prodotto=138
+2022-01-21 14:30|ACQUISTO|id=16313, cliente=7551, importo=943, prodotto=118
+2022-01-21 14:54|ACQUISTO|id=16314, cliente=7551, importo=12, prodotto=155
+2022-01-21 16:15|ACQUISTO|id=16315, cliente=7551, importo=137, prodotto=192
+2022-01-21 17:15|ACQUISTO|id=16316, cliente=7513, importo=481, prodotto=3
+2022-01-21 19:39|ACQUISTO|id=16317, cliente=7513, importo=195, prodotto=54
+2022-01-21 21:03|TEST|########################################
+2022-01-21 23:03|ACQUISTO|id=16318, cliente=7402, importo=535, prodotto=103
+2022-01-22 09:09|LOGIN|########################################
+2022-01-22 13:27|ACQUISTO|id=16319, cliente=7402, importo=144, prodotto=196
+2022-01-22 17:39|ACQUISTO|id=16320, cliente=7362, importo=114, prodotto=33
+2022-01-22 20:00|ACQUISTO|id=16321, cliente=7551, importo=978, prodotto=149
+2022-01-22 22:57|ACQUISTO|id=16322, cliente=7499, importo=221, prodotto=27
+2022-01-23 10:33|LOGOUT|########################################
+2022-01-23 13:12|REGISTRAZIONE|codice=7583, nome=Niccolo, cognome=Paganini
+2022-01-23 15:03|ACQUISTO|id=16323, cliente=7513, importo=809, prodotto=69
+2022-01-23 19:51|ACQUISTO|id=16324, cliente=7532, importo=403, prodotto=82
+2022-01-23 23:03|ACQUISTO|id=16325, cliente=7486, importo=745, prodotto=62
+2022-01-24 11:00|ACQUISTO|id=16326, cliente=7499, importo=278, prodotto=50
+2022-01-24 11:39|TEST|########################################
+2022-01-24 14:06|ACQUISTO|id=16327, cliente=7583, importo=967, prodotto=11
+2022-01-24 16:36|ACQUISTO|id=16328, cliente=7499, importo=850, prodotto=20
+2022-01-24 21:30|LOGIN|########################################
+2022-01-24 22:45|ACQUISTO|id=16329, cliente=7583, importo=873, prodotto=192
+2022-01-25 10:36|TEST|########################################
+2022-01-25 11:54|TEST|########################################
+2022-01-25 16:30|ACQUISTO|id=16330, cliente=7499, importo=957, prodotto=41
+2022-01-25 19:30|ACQUISTO|id=16331, cliente=7450, importo=880, prodotto=189
+2022-01-25 23:42|RESO|########################################
+2022-01-26 11:45|ACQUISTO|id=16332, cliente=7450, importo=679, prodotto=72
+2022-01-26 13:57|RECLAMO|########################################
+2022-01-26 15:30|ACQUISTO|id=16333, cliente=7499, importo=964, prodotto=2
+2022-01-26 17:30|ACQUISTO|id=16334, cliente=7402, importo=225, prodotto=34
+2022-01-26 20:30|ACQUISTO|id=16335, cliente=7427, importo=848, prodotto=181
+2022-01-26 20:42|ACQUISTO|id=16336, cliente=7402, importo=745, prodotto=62
+2022-01-26 23:06|RECLAMO|########################################
+2022-01-27 12:03|ACQUISTO|id=16337, cliente=7499, importo=875, prodotto=68
+2022-01-27 14:15|RECLAMO|########################################
+2022-01-27 16:30|ACQUISTO|id=16338, cliente=7499, importo=736, prodotto=119
+2022-01-27 18:39|ACQUISTO|id=16339, cliente=7486, importo=831, prodotto=32
+2022-01-27 22:06|ACQUISTO|id=16340, cliente=7499, importo=557, prodotto=6
+2022-01-27 22:57|ACQUISTO|id=16341, cliente=7486, importo=854, prodotto=81
+2022-01-28 11:06|ACQUISTO|id=16342, cliente=7402, importo=211, prodotto=12
+2022-01-28 15:12|ACQUISTO|id=16343, cliente=7583, importo=365, prodotto=21
+2022-01-28 16:18|ACQUISTO|id=16344, cliente=7499, importo=751, prodotto=27
+2022-01-28 20:36|ACQUISTO|id=16345, cliente=7583, importo=137, prodotto=192
+2022-01-28 22:18|ACQUISTO|id=16346, cliente=7362, importo=374, prodotto=42
+2022-01-29 09:09|CANCELLAZIONE|########################################
+2022-01-29 13:30|LOGOUT|########################################
+2022-01-29 17:12|ACQUISTO|id=16347, cliente=7385, importo=888, prodotto=45
+2022-01-29 21:09|ACQUISTO|id=16348, cliente=7385, importo=831, prodotto=32
+2022-01-29 21:30|ACQUISTO|id=16349, cliente=7551, importo=888, prodotto=45
+2022-01-29 22:06|REGISTRAZIONE|codice=7610, nome=Raffaello, cognome=Sanzio
+2022-01-30 09:30|CANCELLAZIONE|########################################
+2022-01-30 10:30|ACQUISTO|id=16350, cliente=7385, importo=854, prodotto=81
+2022-01-30 10:48|ACQUISTO|id=16351, cliente=7583, importo=138, prodotto=192
+2022-01-30 11:48|ACQUISTO|id=16352, cliente=7610, importo=225, prodotto=102
+2022-01-30 12:12|RECLAMO|########################################
+2022-01-30 15:39|ACQUISTO|id=16353, cliente=7450, importo=12, prodotto=155
+2022-01-30 19:21|ACQUISTO|id=16354, cliente=7427, importo=831, prodotto=32
+2022-01-30 22:00|ACQUISTO|id=16355, cliente=7551, importo=255, prodotto=160
+2022-01-30 22:48|CANCELLAZIONE|########################################
+2022-01-31 08:03|ACQUISTO|id=16356, cliente=7551, importo=215, prodotto=131
+2022-01-31 11:15|ACQUISTO|id=16357, cliente=7513, importo=461, prodotto=138
+2022-01-31 14:06|REGISTRAZIONE|codice=7639, nome=Antonio, cognome=Canova
+2022-01-31 15:39|ACQUISTO|id=16358, cliente=7427, importo=535, prodotto=103
+2022-01-31 20:06|TEST|########################################
+2022-01-31 20:30|RESO|########################################
+2022-02-01 08:27|ACQUISTO|id=16359, cliente=7362, importo=82, prodotto=74
+2022-02-01 12:39|ACQUISTO|id=16360, cliente=7385, importo=388, prodotto=126
+2022-02-01 12:48|ACQUISTO|id=16361, cliente=7583, importo=722, prodotto=147
+2022-02-01 16:00|CANCELLAZIONE|########################################
+2022-02-01 17:57|ACQUISTO|id=16362, cliente=7486, importo=667, prodotto=52
+2022-02-01 20:33|ACQUISTO|id=16363, cliente=7402, importo=520, prodotto=171
+2022-02-02 09:27|ACQUISTO|id=16364, cliente=7385, importo=873, prodotto=192
+2022-02-02 11:51|TEST|########################################
+2022-02-02 13:24|ACQUISTO|id=16365, cliente=7385, importo=967, prodotto=11
+2022-02-02 14:39|ACQUISTO|id=16366, cliente=7532, importo=137, prodotto=192
+2022-02-02 16:57|ACQUISTO|id=16367, cliente=7385, importo=221, prodotto=27
+2022-02-02 18:42|ACQUISTO|id=16368, cliente=7610, importo=854, prodotto=54
+2022-02-02 19:48|ACQUISTO|id=16369, cliente=7532, importo=145, prodotto=74
+2022-02-02 21:15|RESO|########################################
+2022-02-03 08:57|ACQUISTO|id=16370, cliente=7362, importo=257, prodotto=194
+2022-02-03 12:30|ACQUISTO|id=16371, cliente=7450, importo=432, prodotto=96
+2022-02-03 13:33|RESO|########################################
+2022-02-03 13:39|LOGIN|########################################
+2022-02-03 17:09|CANCELLAZIONE|########################################
+2022-02-03 19:33|ACQUISTO|id=16372, cliente=7532, importo=902, prodotto=133
+2022-02-03 22:45|LOGOUT|########################################
+2022-02-04 10:36|REGISTRAZIONE|codice=7645, nome=Eugenio, cognome=Montale
+2022-02-04 14:21|ACQUISTO|id=16373, cliente=7362, importo=527, prodotto=19
+2022-02-04 17:57|ACQUISTO|id=16374, cliente=7551, importo=225, prodotto=102
+2022-02-04 18:51|ACQUISTO|id=16375, cliente=7362, importo=848, prodotto=181
+2022-02-04 20:54|LOGIN|########################################
+2022-02-04 21:48|CANCELLAZIONE|########################################
+2022-02-05 09:03|ACQUISTO|id=16376, cliente=7486, importo=557, prodotto=6
+2022-02-05 10:09|ACQUISTO|id=16377, cliente=7402, importo=518, prodotto=141
+2022-02-05 11:09|CANCELLAZIONE|########################################
+2022-02-05 15:45|TEST|########################################
+2022-02-05 18:42|RECLAMO|########################################
+2022-02-05 19:24|ACQUISTO|id=16378, cliente=7499, importo=875, prodotto=68
+2022-02-05 20:18|ACQUISTO|id=16379, cliente=7427, importo=725, prodotto=72
+2022-02-05 22:00|RESO|########################################
+2022-02-05 23:09|REGISTRAZIONE|codice=7688, nome=Francesco, cognome=Petrarca
+2022-02-06 11:51|ACQUISTO|id=16380, cliente=7583, importo=888, prodotto=45
+2022-02-06 12:03|LOGOUT|########################################
+2022-02-06 15:57|LOGOUT|########################################
+2022-02-06 17:42|ACQUISTO|id=16381, cliente=7362, importo=827, prodotto=188
+2022-02-06 22:15|LOGIN|########################################
+2022-02-06 22:54|ACQUISTO|id=16382, cliente=7639, importo=606, prodotto=72
+2022-02-06 23:21|RECLAMO|########################################
+2022-02-07 10:24|RESO|########################################
+2022-02-07 12:36|CANCELLAZIONE|########################################
+2022-02-07 13:27|ACQUISTO|id=16383, cliente=7450, importo=181, prodotto=186
+2022-02-07 16:00|ACQUISTO|id=16384, cliente=7583, importo=745, prodotto=62
+2022-02-07 20:24|ACQUISTO|id=16385, cliente=7610, importo=137, prodotto=192
+2022-02-07 23:06|CANCELLAZIONE|########################################
+2022-02-08 11:03|ACQUISTO|id=16386, cliente=7450, importo=722, prodotto=147
+2022-02-08 14:15|ACQUISTO|id=16387, cliente=7402, importo=79, prodotto=168
+2022-02-08 16:48|ACQUISTO|id=16388, cliente=7551, importo=504, prodotto=159
+2022-02-08 17:33|LOGOUT|########################################
+2022-02-08 22:27|ACQUISTO|id=16389, cliente=7486, importo=289, prodotto=81
+2022-02-09 11:18|ACQUISTO|id=16390, cliente=7486, importo=722, prodotto=147
+2022-02-09 15:12|ACQUISTO|id=16391, cliente=7385, importo=757, prodotto=114
+2022-02-09 19:12|ACQUISTO|id=16392, cliente=7450, importo=638, prodotto=12
+2022-02-09 21:36|ACQUISTO|id=16393, cliente=7551, importo=84, prodotto=6
+2022-02-09 21:39|TEST|########################################
+2022-02-09 22:36|ACQUISTO|id=16394, cliente=7362, importo=757, prodotto=114
+2022-02-10 10:24|ACQUISTO|id=16395, cliente=7486, importo=863, prodotto=71
+2022-02-10 11:33|ACQUISTO|id=16396, cliente=7688, importo=252, prodotto=5
+2022-02-10 16:30|ACQUISTO|id=16397, cliente=7532, importo=574, prodotto=48
+2022-02-10 21:00|CANCELLAZIONE|########################################
+2022-02-10 22:42|ACQUISTO|id=16398, cliente=7583, importo=967, prodotto=11
+2022-02-11 08:42|RECLAMO|########################################
+2022-02-11 09:48|ACQUISTO|id=16399, cliente=7583, importo=388, prodotto=126
+2022-02-11 11:48|ACQUISTO|id=16400, cliente=7427, importo=79, prodotto=168
+2022-02-11 16:18|ACQUISTO|id=16401, cliente=7385, importo=520, prodotto=54
+2022-02-11 17:06|ACQUISTO|id=16402, cliente=7450, importo=888, prodotto=45
+2022-02-11 21:33|ACQUISTO|id=16403, cliente=7513, importo=752, prodotto=185
+2022-02-11 22:48|ACQUISTO|id=16404, cliente=7532, importo=451, prodotto=200
+2022-02-12 11:18|ACQUISTO|id=16405, cliente=7385, importo=943, prodotto=118
+2022-02-12 15:21|LOGIN|########################################
+2022-02-12 15:48|ACQUISTO|id=16406, cliente=7639, importo=888, prodotto=45
+2022-02-12 16:36|ACQUISTO|id=16407, cliente=7486, importo=730, prodotto=91
+2022-02-12 20:30|ACQUISTO|id=16408, cliente=7645, importo=527, prodotto=19
+2022-02-12 23:12|ACQUISTO|id=16409, cliente=7639, importo=108, prodotto=9
+2022-02-13 11:12|ACQUISTO|id=16410, cliente=7551, importo=79, prodotto=168
+2022-02-13 11:48|ACQUISTO|id=16411, cliente=7513, importo=195, prodotto=54
+2022-02-13 12:42|RECLAMO|########################################
+2022-02-13 16:09|ACQUISTO|id=16412, cliente=7532, importo=374, prodotto=42
+2022-02-13 17:30|LOGOUT|########################################
+2022-02-13 18:15|ACQUISTO|id=16413, cliente=7402, importo=313, prodotto=17
+2022-02-13 23:09|TEST|########################################
+2022-02-13 23:27|ACQUISTO|id=16414, cliente=7427, importo=403, prodotto=82
+2022-02-14 09:03|ACQUISTO|id=16415, cliente=7532, importo=938, prodotto=68
+2022-02-14 13:03|ACQUISTO|id=16416, cliente=7499, importo=606, prodotto=72
+2022-02-14 17:36|ACQUISTO|id=16417, cliente=7513, importo=374, prodotto=42
+2022-02-14 22:36|ACQUISTO|id=16418, cliente=7639, importo=12, prodotto=155
+2022-02-15 10:33|ACQUISTO|id=16419, cliente=7639, importo=873, prodotto=192
+2022-02-15 15:03|ACQUISTO|id=16420, cliente=7645, importo=195, prodotto=54
+2022-02-15 17:24|CANCELLAZIONE|########################################
+2022-02-15 19:27|TEST|########################################
+2022-02-15 19:54|RESO|########################################
+2022-02-15 20:12|ACQUISTO|id=16421, cliente=7639, importo=144, prodotto=196
+2022-02-16 08:57|ACQUISTO|id=16422, cliente=7532, importo=854, prodotto=54
+2022-02-16 09:51|ACQUISTO|id=16423, cliente=7362, importo=736, prodotto=119
+2022-02-16 10:00|CANCELLAZIONE|########################################
+2022-02-16 10:39|LOGIN|########################################
+2022-02-16 11:24|RESO|########################################
+2022-02-16 12:57|ACQUISTO|id=16424, cliente=7532, importo=211, prodotto=12
+2022-02-16 17:33|ACQUISTO|id=16425, cliente=7486, importo=142, prodotto=192
+2022-02-16 20:39|ACQUISTO|id=16426, cliente=7427, importo=84, prodotto=6
+2022-02-17 08:18|ACQUISTO|id=16427, cliente=7513, importo=211, prodotto=12
+2022-02-17 12:33|ACQUISTO|id=16428, cliente=7645, importo=432, prodotto=96
+2022-02-17 14:21|ACQUISTO|id=16429, cliente=7551, importo=221, prodotto=27
+2022-02-17 15:09|RESO|########################################
+2022-02-17 19:18|ACQUISTO|id=16430, cliente=7362, importo=214, prodotto=164
+2022-02-17 22:36|ACQUISTO|id=16431, cliente=7499, importo=809, prodotto=69
+2022-02-17 23:36|TEST|########################################
+2022-02-18 12:18|ACQUISTO|id=16432, cliente=7688, importo=745, prodotto=62
+2022-02-18 15:36|ACQUISTO|id=16433, cliente=7385, importo=722, prodotto=147
+2022-02-18 17:03|ACQUISTO|id=16434, cliente=7362, importo=481, prodotto=3
+2022-02-18 18:21|RESO|########################################
+2022-02-18 18:45|LOGOUT|########################################
+2022-02-18 20:06|RESO|########################################
+2022-02-18 22:18|ACQUISTO|id=16435, cliente=7551, importo=854, prodotto=81
+2022-02-19 09:15|TEST|########################################
+2022-02-19 10:15|ACQUISTO|id=16436, cliente=7486, importo=569, prodotto=4
+2022-02-19 11:51|CANCELLAZIONE|########################################
+2022-02-19 16:09|ACQUISTO|id=16437, cliente=7610, importo=978, prodotto=149
+2022-02-19 16:48|ACQUISTO|id=16438, cliente=7402, importo=518, prodotto=141
+2022-02-19 21:00|ACQUISTO|id=16439, cliente=7610, importo=137, prodotto=192
+2022-02-20 09:48|ACQUISTO|id=16440, cliente=7610, importo=873, prodotto=192
+2022-02-20 11:51|ACQUISTO|id=16441, cliente=7583, importo=142, prodotto=192
+2022-02-20 12:03|ACQUISTO|id=16442, cliente=7402, importo=938, prodotto=68
+2022-02-20 15:03|REGISTRAZIONE|codice=7707, nome=Sandro, cognome=Botticelli
+2022-02-20 15:36|ACQUISTO|id=16443, cliente=7583, importo=245, prodotto=79
+2022-02-20 16:54|RECLAMO|########################################
+2022-02-20 18:06|ACQUISTO|id=16444, cliente=7402, importo=848, prodotto=181
+2022-02-20 21:21|RESO|########################################
+2022-02-20 23:18|LOGOUT|########################################
+2022-02-21 09:06|LOGOUT|########################################
+2022-02-21 12:30|ACQUISTO|id=16445, cliente=7639, importo=957, prodotto=41
+2022-02-21 14:00|ACQUISTO|id=16446, cliente=7688, importo=984, prodotto=170
+2022-02-21 15:51|LOGIN|########################################
+2022-02-21 17:33|ACQUISTO|id=16447, cliente=7513, importo=225, prodotto=34
+2022-02-21 21:54|RECLAMO|########################################
+2022-02-22 10:18|ACQUISTO|id=16448, cliente=7385, importo=752, prodotto=185
+2022-02-22 13:21|ACQUISTO|id=16449, cliente=7486, importo=434, prodotto=157
+2022-02-22 16:57|ACQUISTO|id=16450, cliente=7551, importo=201, prodotto=174
+2022-02-22 21:27|TEST|########################################
+2022-02-22 23:27|ACQUISTO|id=16451, cliente=7532, importo=313, prodotto=17
+2022-02-23 10:27|ACQUISTO|id=16452, cliente=7583, importo=757, prodotto=114
+2022-02-23 12:36|ACQUISTO|id=16453, cliente=7532, importo=722, prodotto=147
+2022-02-23 15:57|LOGIN|########################################
+2022-02-23 18:30|RECLAMO|########################################
+2022-02-23 23:21|RESO|########################################
+2022-02-24 11:27|RESO|########################################
+2022-02-24 15:54|RESO|########################################
+2022-02-24 18:39|TEST|########################################
+2022-02-24 22:15|LOGOUT|########################################
+2022-02-25 09:57|ACQUISTO|id=16454, cliente=7639, importo=496, prodotto=65
+2022-02-25 11:06|ACQUISTO|id=16455, cliente=7385, importo=114, prodotto=33
+2022-02-25 12:33|ACQUISTO|id=16456, cliente=7499, importo=557, prodotto=6
+2022-02-25 13:36|ACQUISTO|id=16457, cliente=7583, importo=138, prodotto=192
+2022-02-25 16:33|RECLAMO|########################################
+2022-02-25 16:36|REGISTRAZIONE|codice=7734, nome=Andrea, cognome=Mantegna
+2022-02-25 21:21|ACQUISTO|id=16458, cliente=7610, importo=902, prodotto=133
+2022-02-25 22:24|RESO|########################################
+2022-02-26 09:00|ACQUISTO|id=16459, cliente=7688, importo=348, prodotto=191
+2022-02-26 09:12|ACQUISTO|id=16460, cliente=7583, importo=313, prodotto=17
+2022-02-26 13:18|RESO|########################################
+2022-02-26 15:54|ACQUISTO|id=16461, cliente=7583, importo=142, prodotto=192
+2022-02-26 19:51|ACQUISTO|id=16462, cliente=7362, importo=667, prodotto=52
+2022-02-27 08:09|ACQUISTO|id=16463, cliente=7639, importo=221, prodotto=27
+2022-02-27 08:45|TEST|########################################
+2022-02-27 12:30|ACQUISTO|id=16464, cliente=7499, importo=938, prodotto=68
+2022-02-27 12:33|ACQUISTO|id=16465, cliente=7639, importo=621, prodotto=174
+2022-02-27 13:06|ACQUISTO|id=16466, cliente=7385, importo=496, prodotto=65
+2022-02-27 16:12|ACQUISTO|id=16467, cliente=7499, importo=775, prodotto=187
+2022-02-27 20:00|ACQUISTO|id=16468, cliente=7427, importo=965, prodotto=45
+2022-02-28 08:24|LOGIN|########################################
+2022-02-28 08:42|RECLAMO|########################################
+2022-02-28 13:00|ACQUISTO|id=16469, cliente=7610, importo=863, prodotto=71
+2022-02-28 17:42|CANCELLAZIONE|########################################
+2022-02-28 22:33|LOGOUT|########################################
+2022-02-28 22:36|ACQUISTO|id=16470, cliente=7688, importo=289, prodotto=81
+2022-03-01 09:27|ACQUISTO|id=16471, cliente=7551, importo=559, prodotto=190
+2022-03-01 10:48|ACQUISTO|id=16472, cliente=7499, importo=137, prodotto=192
+2022-03-01 15:15|ACQUISTO|id=16473, cliente=7645, importo=848, prodotto=181
+2022-03-01 19:21|CANCELLAZIONE|########################################
+2022-03-01 21:57|ACQUISTO|id=16474, cliente=7513, importo=108, prodotto=9
+2022-03-02 10:03|ACQUISTO|id=16475, cliente=7486, importo=137, prodotto=192
+2022-03-02 13:12|ACQUISTO|id=16476, cliente=7385, importo=138, prodotto=192
+2022-03-02 17:39|ACQUISTO|id=16477, cliente=7610, importo=108, prodotto=9
+2022-03-02 20:00|ACQUISTO|id=16478, cliente=7645, importo=137, prodotto=192
+2022-03-02 22:57|ACQUISTO|id=16479, cliente=7610, importo=330, prodotto=139
+2022-03-02 23:12|LOGIN|########################################
+2022-03-03 08:54|ACQUISTO|id=16480, cliente=7639, importo=201, prodotto=174
+2022-03-03 13:21|ACQUISTO|id=16481, cliente=7385, importo=365, prodotto=21
+2022-03-03 14:45|TEST|########################################
+2022-03-03 15:21|ACQUISTO|id=16482, cliente=7610, importo=854, prodotto=81
+2022-03-03 19:12|ACQUISTO|id=16483, cliente=7450, importo=848, prodotto=181
+2022-03-03 23:51|ACQUISTO|id=16484, cliente=7532, importo=225, prodotto=102
+2022-03-04 10:12|ACQUISTO|id=16485, cliente=7402, importo=964, prodotto=2
+2022-03-04 14:57|ACQUISTO|id=16486, cliente=7362, importo=888, prodotto=45
+2022-03-04 19:30|ACQUISTO|id=16487, cliente=7450, importo=888, prodotto=45
+2022-03-04 22:03|ACQUISTO|id=16488, cliente=7499, importo=850, prodotto=20
+2022-03-05 09:54|ACQUISTO|id=16489, cliente=7402, importo=289, prodotto=81
+2022-03-05 13:21|RECLAMO|########################################
+2022-03-05 17:30|ACQUISTO|id=16490, cliente=7385, importo=535, prodotto=103
+2022-03-05 20:45|ACQUISTO|id=16491, cliente=7427, importo=827, prodotto=188
+2022-03-06 08:57|ACQUISTO|id=16492, cliente=7513, importo=214, prodotto=164
+2022-03-06 12:42|ACQUISTO|id=16493, cliente=7385, importo=722, prodotto=147
+2022-03-06 15:45|ACQUISTO|id=16494, cliente=7385, importo=719, prodotto=194
+2022-03-06 20:09|ACQUISTO|id=16495, cliente=7551, importo=902, prodotto=133
+2022-03-07 08:18|ACQUISTO|id=16496, cliente=7639, importo=621, prodotto=174
+2022-03-07 12:39|ACQUISTO|id=16497, cliente=7385, importo=144, prodotto=196
+2022-03-07 13:03|ACQUISTO|id=16498, cliente=7450, importo=403, prodotto=82
+2022-03-07 17:51|ACQUISTO|id=16499, cliente=7734, importo=257, prodotto=194
+2022-03-07 19:03|ACQUISTO|id=16500, cliente=7450, importo=863, prodotto=71
+2022-03-07 21:45|ACQUISTO|id=16501, cliente=7532, importo=574, prodotto=48
+2022-03-08 10:00|ACQUISTO|id=16502, cliente=7499, importo=451, prodotto=200
+2022-03-08 12:45|RECLAMO|########################################
+2022-03-08 17:18|ACQUISTO|id=16503, cliente=7583, importo=725, prodotto=194
+2022-03-08 20:18|TEST|########################################
+2022-03-09 08:12|LOGIN|########################################
+2022-03-09 08:33|RESO|########################################
+2022-03-09 12:45|RECLAMO|########################################
+2022-03-09 15:36|ACQUISTO|id=16504, cliente=7513, importo=289, prodotto=81
+2022-03-09 16:54|TEST|########################################
+2022-03-09 20:12|ACQUISTO|id=16505, cliente=7734, importo=195, prodotto=54
+2022-03-09 22:45|ACQUISTO|id=16506, cliente=7513, importo=451, prodotto=200
+2022-03-09 22:51|ACQUISTO|id=16507, cliente=7551, importo=827, prodotto=188
+2022-03-10 10:18|RESO|########################################
+2022-03-10 10:57|ACQUISTO|id=16508, cliente=7551, importo=225, prodotto=102
+2022-03-10 12:00|LOGIN|########################################
+2022-03-10 12:33|ACQUISTO|id=16509, cliente=7532, importo=574, prodotto=48
+2022-03-10 16:24|RECLAMO|########################################
+2022-03-10 17:18|ACQUISTO|id=16510, cliente=7385, importo=117, prodotto=67
+2022-03-10 21:03|ACQUISTO|id=16511, cliente=7427, importo=348, prodotto=191
+2022-03-10 23:27|ACQUISTO|id=16512, cliente=7402, importo=225, prodotto=102
+2022-03-11 08:21|ACQUISTO|id=16513, cliente=7450, importo=725, prodotto=72
+2022-03-11 09:51|ACQUISTO|id=16514, cliente=7486, importo=854, prodotto=81
+2022-03-11 11:30|RECLAMO|########################################
+2022-03-11 15:51|ACQUISTO|id=16515, cliente=7450, importo=683, prodotto=58
+2022-03-11 19:24|ACQUISTO|id=16516, cliente=7610, importo=215, prodotto=131
+2022-03-11 19:42|ACQUISTO|id=16517, cliente=7402, importo=683, prodotto=58
+2022-03-11 20:33|ACQUISTO|id=16518, cliente=7402, importo=374, prodotto=42
+2022-03-11 23:42|ACQUISTO|id=16519, cliente=7402, importo=145, prodotto=74
+2022-03-12 10:39|ACQUISTO|id=16520, cliente=7688, importo=99, prodotto=186
+2022-03-12 12:27|RESO|########################################
+2022-03-12 13:39|ACQUISTO|id=16521, cliente=7734, importo=137, prodotto=192
+2022-03-12 18:21|ACQUISTO|id=16522, cliente=7362, importo=181, prodotto=186
+2022-03-12 22:51|ACQUISTO|id=16523, cliente=7639, importo=719, prodotto=194
+2022-03-12 22:54|ACQUISTO|id=16524, cliente=7486, importo=827, prodotto=188
+2022-03-12 23:57|LOGIN|########################################
+2022-03-13 09:42|LOGOUT|########################################
+2022-03-13 12:33|LOGOUT|########################################
+2022-03-13 17:18|ACQUISTO|id=16525, cliente=7362, importo=902, prodotto=133
+2022-03-13 20:27|ACQUISTO|id=16526, cliente=7551, importo=752, prodotto=185
+2022-03-13 23:51|ACQUISTO|id=16527, cliente=7499, importo=365, prodotto=21
+2022-03-14 08:24|CANCELLAZIONE|########################################
+2022-03-14 12:42|ACQUISTO|id=16528, cliente=7734, importo=559, prodotto=190
+2022-03-14 14:48|ACQUISTO|id=16529, cliente=7385, importo=683, prodotto=58
+2022-03-14 18:57|LOGIN|########################################
+2022-03-14 21:09|ACQUISTO|id=16530, cliente=7385, importo=757, prodotto=114
+2022-03-15 09:09|ACQUISTO|id=16531, cliente=7610, importo=725, prodotto=72
+2022-03-15 12:39|LOGIN|########################################
+2022-03-15 15:15|ACQUISTO|id=16532, cliente=7707, importo=725, prodotto=72
+2022-03-15 19:27|ACQUISTO|id=16533, cliente=7583, importo=388, prodotto=126
+2022-03-15 19:48|CANCELLAZIONE|########################################
+2022-03-15 21:48|ACQUISTO|id=16534, cliente=7532, importo=850, prodotto=20
+2022-03-16 08:18|ACQUISTO|id=16535, cliente=7734, importo=225, prodotto=34
+2022-03-16 11:54|ACQUISTO|id=16536, cliente=7707, importo=552, prodotto=10
+2022-03-16 14:09|ACQUISTO|id=16537, cliente=7362, importo=559, prodotto=190
+2022-03-16 15:12|ACQUISTO|id=16538, cliente=7551, importo=875, prodotto=68
+2022-03-16 16:24|ACQUISTO|id=16539, cliente=7427, importo=730, prodotto=91
+2022-03-16 20:12|ACQUISTO|id=16540, cliente=7385, importo=313, prodotto=17
+2022-03-16 21:57|ACQUISTO|id=16541, cliente=7450, importo=730, prodotto=91
+2022-03-17 10:12|ACQUISTO|id=16542, cliente=7402, importo=559, prodotto=190
+2022-03-17 13:42|ACQUISTO|id=16543, cliente=7639, importo=211, prodotto=12
+2022-03-17 15:18|ACQUISTO|id=16544, cliente=7362, importo=374, prodotto=42
+2022-03-17 20:15|ACQUISTO|id=16545, cliente=7513, importo=245, prodotto=79
+2022-03-18 08:42|CANCELLAZIONE|########################################
+2022-03-18 13:09|ACQUISTO|id=16546, cliente=7688, importo=559, prodotto=190
+2022-03-18 15:48|ACQUISTO|id=16547, cliente=7362, importo=496, prodotto=65
+2022-03-18 18:12|ACQUISTO|id=16548, cliente=7532, importo=527, prodotto=19
+2022-03-18 20:51|ACQUISTO|id=16549, cliente=7610, importo=809, prodotto=69
+2022-03-18 23:42|ACQUISTO|id=16550, cliente=7513, importo=736, prodotto=119
+2022-03-19 11:45|TEST|########################################
+2022-03-19 14:51|RECLAMO|########################################
+2022-03-19 15:18|ACQUISTO|id=16551, cliente=7427, importo=667, prodotto=52
+2022-03-19 19:12|ACQUISTO|id=16552, cliente=7645, importo=574, prodotto=48
+2022-03-19 20:06|ACQUISTO|id=16553, cliente=7734, importo=964, prodotto=2
+2022-03-19 22:51|ACQUISTO|id=16554, cliente=7645, importo=736, prodotto=119
+2022-03-20 09:21|RECLAMO|########################################
+2022-03-20 10:51|ACQUISTO|id=16555, cliente=7583, importo=683, prodotto=58
+2022-03-20 13:30|LOGIN|########################################
+2022-03-20 15:57|ACQUISTO|id=16556, cliente=7513, importo=559, prodotto=190
+2022-03-20 20:03|ACQUISTO|id=16557, cliente=7499, importo=752, prodotto=185
+2022-03-20 23:12|ACQUISTO|id=16558, cliente=7532, importo=169, prodotto=19
+2022-03-21 11:51|ACQUISTO|id=16559, cliente=7734, importo=496, prodotto=65
+2022-03-21 14:18|ACQUISTO|id=16560, cliente=7551, importo=745, prodotto=62
+2022-03-21 19:18|ACQUISTO|id=16561, cliente=7645, importo=518, prodotto=141
+2022-03-21 20:06|TEST|########################################
+2022-03-22 08:45|RESO|########################################
+2022-03-22 12:21|LOGOUT|########################################
+2022-03-22 13:03|ACQUISTO|id=16562, cliente=7513, importo=957, prodotto=41
+2022-03-22 13:54|ACQUISTO|id=16563, cliente=7688, importo=606, prodotto=72
+2022-03-22 14:36|ACQUISTO|id=16564, cliente=7513, importo=888, prodotto=45
+2022-03-22 15:51|RECLAMO|########################################
+2022-03-22 17:57|ACQUISTO|id=16565, cliente=7450, importo=745, prodotto=62
+2022-03-22 22:51|ACQUISTO|id=16566, cliente=7610, importo=863, prodotto=71
+2022-03-22 23:18|ACQUISTO|id=16567, cliente=7645, importo=79, prodotto=168
+2022-03-23 12:09|ACQUISTO|id=16568, cliente=7707, importo=527, prodotto=19
+2022-03-23 14:36|ACQUISTO|id=16569, cliente=7450, importo=99, prodotto=186
+2022-03-23 15:15|ACQUISTO|id=16570, cliente=7610, importo=902, prodotto=133
+2022-03-23 18:21|RESO|########################################
+2022-03-23 19:00|ACQUISTO|id=16571, cliente=7734, importo=504, prodotto=159
+2022-03-23 23:48|ACQUISTO|id=16572, cliente=7513, importo=964, prodotto=2
+2022-03-24 08:15|ACQUISTO|id=16573, cliente=7734, importo=365, prodotto=21
+2022-03-24 09:27|CANCELLAZIONE|########################################
+2022-03-24 13:54|ACQUISTO|id=16574, cliente=7551, importo=432, prodotto=96
+2022-03-24 14:18|ACQUISTO|id=16575, cliente=7427, importo=880, prodotto=189
+2022-03-24 18:00|LOGIN|########################################
+2022-03-24 20:42|ACQUISTO|id=16576, cliente=7639, importo=278, prodotto=50
+2022-03-24 23:57|ACQUISTO|id=16577, cliente=7402, importo=504, prodotto=159
+2022-03-25 09:48|LOGIN|########################################
+2022-03-25 11:12|ACQUISTO|id=16578, cliente=7450, importo=252, prodotto=5
+2022-03-25 13:33|ACQUISTO|id=16579, cliente=7385, importo=504, prodotto=159
+2022-03-25 15:18|ACQUISTO|id=16580, cliente=7362, importo=278, prodotto=50
+2022-03-25 15:42|CANCELLAZIONE|########################################
+2022-03-25 16:30|ACQUISTO|id=16581, cliente=7610, importo=902, prodotto=133
+2022-03-25 16:33|LOGIN|########################################
+2022-03-25 19:57|RECLAMO|########################################
+2022-03-25 23:57|ACQUISTO|id=16582, cliente=7402, importo=638, prodotto=12
+2022-03-26 10:15|ACQUISTO|id=16583, cliente=7639, importo=535, prodotto=103
+2022-03-26 11:21|ACQUISTO|id=16584, cliente=7427, importo=621, prodotto=174
+2022-03-26 12:00|ACQUISTO|id=16585, cliente=7427, importo=967, prodotto=11
+2022-03-26 13:12|ACQUISTO|id=16586, cliente=7362, importo=252, prodotto=5
+2022-03-26 15:03|LOGIN|########################################
+2022-03-26 15:39|ACQUISTO|id=16587, cliente=7427, importo=752, prodotto=185
+2022-03-26 19:06|ACQUISTO|id=16588, cliente=7385, importo=215, prodotto=131
+2022-03-26 19:48|CANCELLAZIONE|########################################
+2022-03-27 08:12|RESO|########################################
+2022-03-27 11:03|ACQUISTO|id=16589, cliente=7707, importo=114, prodotto=33
+2022-03-27 15:21|ACQUISTO|id=16590, cliente=7639, importo=22, prodotto=139
+2022-03-27 18:33|ACQUISTO|id=16591, cliente=7610, importo=552, prodotto=10
+2022-03-27 21:30|ACQUISTO|id=16592, cliente=7513, importo=559, prodotto=190
+2022-03-27 21:33|RECLAMO|########################################
+2022-03-27 22:21|ACQUISTO|id=16593, cliente=7645, importo=873, prodotto=192
+2022-03-27 22:24|CANCELLAZIONE|########################################
+2022-03-28 08:54|ACQUISTO|id=16594, cliente=7734, importo=863, prodotto=71
+2022-03-28 11:39|ACQUISTO|id=16595, cliente=7707, importo=225, prodotto=34
+2022-03-28 16:12|LOGIN|########################################
+2022-03-28 18:12|ACQUISTO|id=16596, cliente=7402, importo=481, prodotto=3
+2022-03-28 20:24|ACQUISTO|id=16597, cliente=7450, importo=221, prodotto=27
+2022-03-28 20:42|LOGIN|########################################
+2022-03-29 08:24|ACQUISTO|id=16598, cliente=7532, importo=201, prodotto=174
+2022-03-29 09:18|LOGOUT|########################################
+2022-03-29 12:09|ACQUISTO|id=16599, cliente=7499, importo=964, prodotto=2
+2022-03-29 16:48|TEST|########################################
+2022-03-29 17:00|LOGIN|########################################
+2022-03-29 17:33|TEST|########################################
+2022-03-29 18:45|ACQUISTO|id=16600, cliente=7513, importo=775, prodotto=187
+2022-03-29 22:42|RESO|########################################
+2022-03-30 10:39|CANCELLAZIONE|########################################
+2022-03-30 12:06|TEST|########################################
+2022-03-30 13:57|ACQUISTO|id=16601, cliente=7639, importo=964, prodotto=2
+2022-03-30 15:27|TEST|########################################
+2022-03-30 20:21|ACQUISTO|id=16602, cliente=7385, importo=169, prodotto=19
+2022-03-30 21:57|ACQUISTO|id=16603, cliente=7688, importo=451, prodotto=200
+2022-03-31 08:09|ACQUISTO|id=16604, cliente=7707, importo=117, prodotto=67
+2022-03-31 09:36|ACQUISTO|id=16605, cliente=7639, importo=432, prodotto=96
+2022-03-31 11:51|ACQUISTO|id=16606, cliente=7645, importo=730, prodotto=91
+2022-03-31 16:27|ACQUISTO|id=16607, cliente=7610, importo=552, prodotto=10
+2022-03-31 17:51|ACQUISTO|id=16608, cliente=7551, importo=79, prodotto=168
+2022-03-31 18:27|ACQUISTO|id=16609, cliente=7610, importo=775, prodotto=187
+2022-03-31 19:15|RESO|########################################
+2022-03-31 19:48|ACQUISTO|id=16610, cliente=7734, importo=201, prodotto=174
+2022-03-31 23:00|RECLAMO|########################################
+2022-04-01 11:09|ACQUISTO|id=16611, cliente=7402, importo=557, prodotto=6
+2022-04-01 12:48|ACQUISTO|id=16612, cliente=7583, importo=535, prodotto=103
+2022-04-01 17:03|LOGOUT|########################################
+2022-04-01 21:48|ACQUISTO|id=16613, cliente=7499, importo=504, prodotto=159
+2022-04-02 08:03|ACQUISTO|id=16614, cliente=7486, importo=313, prodotto=17
+2022-04-02 08:09|ACQUISTO|id=16615, cliente=7499, importo=855, prodotto=154
+2022-04-02 09:24|ACQUISTO|id=16616, cliente=7551, importo=679, prodotto=72
+2022-04-02 10:15|ACQUISTO|id=16617, cliente=7362, importo=518, prodotto=141
+2022-04-02 15:12|ACQUISTO|id=16618, cliente=7645, importo=873, prodotto=192
+2022-04-02 17:51|RESO|########################################
+2022-04-02 21:24|ACQUISTO|id=16619, cliente=7513, importo=888, prodotto=45
+2022-04-03 10:15|ACQUISTO|id=16620, cliente=7583, importo=679, prodotto=72
+2022-04-03 11:21|LOGOUT|########################################
+2022-04-03 15:00|ACQUISTO|id=16621, cliente=7427, importo=855, prodotto=154
+2022-04-03 17:06|TEST|########################################
+2022-04-03 20:33|ACQUISTO|id=16622, cliente=7499, importo=880, prodotto=189
+2022-04-03 20:54|RECLAMO|########################################
+2022-04-04 09:39|ACQUISTO|id=16623, cliente=7707, importo=730, prodotto=91
+2022-04-04 10:36|ACQUISTO|id=16624, cliente=7583, importo=873, prodotto=192
+2022-04-04 11:27|ACQUISTO|id=16625, cliente=7486, importo=255, prodotto=160
+2022-04-04 11:36|ACQUISTO|id=16626, cliente=7610, importo=144, prodotto=196
+2022-04-04 14:30|ACQUISTO|id=16627, cliente=7707, importo=725, prodotto=194
+2022-04-04 18:21|ACQUISTO|id=16628, cliente=7734, importo=225, prodotto=34
+2022-04-04 23:03|ACQUISTO|id=16629, cliente=7499, importo=888, prodotto=45
+2022-04-05 11:42|TEST|########################################
+2022-04-05 14:06|ACQUISTO|id=16630, cliente=7499, importo=667, prodotto=52
+2022-04-05 19:06|ACQUISTO|id=16631, cliente=7385, importo=458, prodotto=4
+2022-04-05 20:15|ACQUISTO|id=16632, cliente=7583, importo=902, prodotto=133
+2022-04-05 22:57|ACQUISTO|id=16633, cliente=7532, importo=736, prodotto=119
+2022-04-06 11:00|ACQUISTO|id=16634, cliente=7385, importo=388, prodotto=126
+2022-04-06 13:00|RECLAMO|########################################
+2022-04-06 17:33|ACQUISTO|id=16635, cliente=7362, importo=873, prodotto=192
+2022-04-06 21:21|TEST|########################################
+2022-04-07 08:30|ACQUISTO|id=16636, cliente=7734, importo=559, prodotto=190
+2022-04-07 12:24|ACQUISTO|id=16637, cliente=7688, importo=365, prodotto=21
+2022-04-07 14:39|LOGOUT|########################################
+2022-04-07 19:36|CANCELLAZIONE|########################################
+2022-04-07 20:54|ACQUISTO|id=16638, cliente=7513, importo=221, prodotto=27
+2022-04-07 23:15|LOGIN|########################################
+2022-04-08 11:18|TEST|########################################
+2022-04-08 15:12|ACQUISTO|id=16639, cliente=7499, importo=957, prodotto=41
+2022-04-08 19:09|ACQUISTO|id=16640, cliente=7707, importo=848, prodotto=181
+2022-04-08 22:21|ACQUISTO|id=16641, cliente=7734, importo=736, prodotto=119
+2022-04-09 11:15|RECLAMO|########################################
+2022-04-09 12:54|RECLAMO|########################################
+2022-04-09 14:06|ACQUISTO|id=16642, cliente=7499, importo=365, prodotto=21
+2022-04-09 17:27|CANCELLAZIONE|########################################
+2022-04-09 22:21|ACQUISTO|id=16643, cliente=7362, importo=225, prodotto=102
+2022-04-10 09:54|RECLAMO|########################################
+2022-04-10 11:36|ACQUISTO|id=16644, cliente=7707, importo=722, prodotto=147
+2022-04-10 16:06|TEST|########################################
+2022-04-10 20:42|ACQUISTO|id=16645, cliente=7402, importo=520, prodotto=54
+2022-04-11 08:18|ACQUISTO|id=16646, cliente=7610, importo=374, prodotto=42
+2022-04-11 10:27|CANCELLAZIONE|########################################
+2022-04-11 11:09|TEST|########################################
+2022-04-11 15:33|ACQUISTO|id=16647, cliente=7639, importo=848, prodotto=181
+2022-04-11 18:27|ACQUISTO|id=16648, cliente=7707, importo=748, prodotto=99
+2022-04-11 20:51|ACQUISTO|id=16649, cliente=7532, importo=145, prodotto=74
+2022-04-11 21:24|ACQUISTO|id=16650, cliente=7610, importo=145, prodotto=74
+2022-04-11 22:54|ACQUISTO|id=16651, cliente=7707, importo=569, prodotto=4
+2022-04-12 08:51|RESO|########################################
+2022-04-12 09:15|ACQUISTO|id=16652, cliente=7499, importo=108, prodotto=9
+2022-04-12 12:48|ACQUISTO|id=16653, cliente=7450, importo=902, prodotto=133
+2022-04-12 16:42|ACQUISTO|id=16654, cliente=7427, importo=775, prodotto=187
+2022-04-12 20:15|ACQUISTO|id=16655, cliente=7734, importo=481, prodotto=3
+2022-04-12 22:30|ACQUISTO|id=16656, cliente=7450, importo=606, prodotto=72
+2022-04-12 22:45|ACQUISTO|id=16657, cliente=7583, importo=984, prodotto=170
+2022-04-12 23:09|RECLAMO|########################################
+2022-04-13 09:48|ACQUISTO|id=16658, cliente=7707, importo=964, prodotto=2
+2022-04-13 12:54|ACQUISTO|id=16659, cliente=7688, importo=978, prodotto=149
+2022-04-13 14:54|ACQUISTO|id=16660, cliente=7583, importo=443, prodotto=50
+2022-04-13 15:15|ACQUISTO|id=16661, cliente=7532, importo=752, prodotto=185
+2022-04-13 19:24|ACQUISTO|id=16662, cliente=7486, importo=569, prodotto=4
+2022-04-13 22:12|ACQUISTO|id=16663, cliente=7610, importo=854, prodotto=81
+2022-04-14 11:09|ACQUISTO|id=16664, cliente=7532, importo=875, prodotto=68
+2022-04-14 13:51|ACQUISTO|id=16665, cliente=7513, importo=225, prodotto=102
+2022-04-14 17:42|ACQUISTO|id=16666, cliente=7645, importo=255, prodotto=160
+2022-04-14 22:09|ACQUISTO|id=16667, cliente=7385, importo=827, prodotto=188
+2022-04-15 08:45|ACQUISTO|id=16668, cliente=7734, importo=775, prodotto=187
+2022-04-15 09:54|ACQUISTO|id=16669, cliente=7385, importo=719, prodotto=194
+2022-04-15 11:00|ACQUISTO|id=16670, cliente=7707, importo=984, prodotto=170
+2022-04-15 13:42|ACQUISTO|id=16671, cliente=7486, importo=82, prodotto=74
+2022-04-15 16:27|ACQUISTO|id=16672, cliente=7402, importo=978, prodotto=149
+2022-04-15 17:57|ACQUISTO|id=16673, cliente=7707, importo=313, prodotto=17
+2022-04-15 18:03|LOGIN|########################################
+2022-04-15 18:15|ACQUISTO|id=16674, cliente=7532, importo=722, prodotto=147
+2022-04-15 19:27|CANCELLAZIONE|########################################
+2022-04-15 21:12|RECLAMO|########################################
+2022-04-15 22:06|LOGIN|########################################
+2022-04-15 22:57|ACQUISTO|id=16675, cliente=7450, importo=978, prodotto=149
+2022-04-16 09:09|RESO|########################################
+2022-04-16 13:48|LOGIN|########################################
+2022-04-16 17:21|RESO|########################################
+2022-04-16 22:15|TEST|########################################
+2022-04-16 23:57|LOGIN|########################################
+2022-04-17 10:27|ACQUISTO|id=16676, cliente=7610, importo=221, prodotto=27
+2022-04-17 12:18|RECLAMO|########################################
+2022-04-17 13:00|ACQUISTO|id=16677, cliente=7385, importo=221, prodotto=27
+2022-04-17 17:42|ACQUISTO|id=16678, cliente=7513, importo=12, prodotto=155
+2022-04-17 22:27|ACQUISTO|id=16679, cliente=7551, importo=142, prodotto=192
+2022-04-18 09:54|ACQUISTO|id=16680, cliente=7645, importo=145, prodotto=74
+2022-04-18 13:27|ACQUISTO|id=16681, cliente=7450, importo=943, prodotto=118
+2022-04-18 14:51|ACQUISTO|id=16682, cliente=7645, importo=831, prodotto=32
+2022-04-18 15:30|ACQUISTO|id=16683, cliente=7450, importo=201, prodotto=174
+2022-04-18 18:45|ACQUISTO|id=16684, cliente=7551, importo=552, prodotto=10
+2022-04-18 23:27|RESO|########################################
+2022-04-19 09:45|ACQUISTO|id=16685, cliente=7450, importo=257, prodotto=194
+2022-04-19 13:30|RESO|########################################
+2022-04-19 13:39|ACQUISTO|id=16686, cliente=7362, importo=145, prodotto=74
+2022-04-19 14:51|TEST|########################################
+2022-04-19 18:12|ACQUISTO|id=16687, cliente=7450, importo=82, prodotto=74
+2022-04-19 20:06|ACQUISTO|id=16688, cliente=7688, importo=748, prodotto=99
+2022-04-19 21:03|LOGIN|########################################
+2022-04-19 23:36|ACQUISTO|id=16689, cliente=7734, importo=403, prodotto=82
+2022-04-20 09:21|CANCELLAZIONE|########################################
+2022-04-20 09:36|ACQUISTO|id=16690, cliente=7427, importo=255, prodotto=160
+2022-04-20 11:57|ACQUISTO|id=16691, cliente=7402, importo=848, prodotto=181
+2022-04-20 16:15|ACQUISTO|id=16692, cliente=7362, importo=943, prodotto=118
+2022-04-20 17:45|ACQUISTO|id=16693, cliente=7688, importo=169, prodotto=19
+2022-04-20 22:30|ACQUISTO|id=16694, cliente=7645, importo=313, prodotto=17
+2022-04-21 08:15|ACQUISTO|id=16695, cliente=7532, importo=252, prodotto=5
+2022-04-21 10:24|ACQUISTO|id=16696, cliente=7688, importo=850, prodotto=20
+2022-04-21 11:51|ACQUISTO|id=16697, cliente=7486, importo=725, prodotto=194
+2022-04-21 15:45|ACQUISTO|id=16698, cliente=7583, importo=289, prodotto=81
+2022-04-21 20:36|ACQUISTO|id=16699, cliente=7734, importo=137, prodotto=192
+2022-04-21 23:24|ACQUISTO|id=16700, cliente=7532, importo=863, prodotto=71
+2022-04-22 08:51|ACQUISTO|id=16701, cliente=7532, importo=22, prodotto=139
+2022-04-22 12:30|LOGIN|########################################
+2022-04-22 13:06|ACQUISTO|id=16702, cliente=7645, importo=722, prodotto=147
+2022-04-22 16:06|ACQUISTO|id=16703, cliente=7532, importo=775, prodotto=187
+2022-04-22 19:48|CANCELLAZIONE|########################################
+2022-04-22 20:30|ACQUISTO|id=16704, cliente=7583, importo=252, prodotto=5
+2022-04-23 09:30|TEST|########################################
+2022-04-23 09:57|TEST|########################################
+2022-04-23 12:57|TEST|########################################
+2022-04-23 16:21|RECLAMO|########################################
+2022-04-23 19:36|ACQUISTO|id=16705, cliente=7385, importo=809, prodotto=69
+2022-04-23 23:51|ACQUISTO|id=16706, cliente=7639, importo=667, prodotto=52
+2022-04-24 12:27|ACQUISTO|id=16707, cliente=7645, importo=638, prodotto=12
+2022-04-24 16:24|ACQUISTO|id=16708, cliente=7450, importo=606, prodotto=72
+2022-04-24 17:51|ACQUISTO|id=16709, cliente=7551, importo=137, prodotto=192
+2022-04-24 19:12|LOGIN|########################################
+2022-04-24 23:09|ACQUISTO|id=16710, cliente=7734, importo=252, prodotto=5
+2022-04-25 09:06|ACQUISTO|id=16711, cliente=7583, importo=965, prodotto=45
+2022-04-25 11:03|ACQUISTO|id=16712, cliente=7450, importo=169, prodotto=19
+2022-04-25 14:03|LOGIN|########################################
+2022-04-25 17:12|ACQUISTO|id=16713, cliente=7499, importo=520, prodotto=171
+2022-04-25 18:27|ACQUISTO|id=16714, cliente=7610, importo=752, prodotto=185
+2022-04-25 18:48|ACQUISTO|id=16715, cliente=7551, importo=855, prodotto=154
+2022-04-25 21:54|ACQUISTO|id=16716, cliente=7486, importo=22, prodotto=139
+2022-04-26 09:09|ACQUISTO|id=16717, cliente=7486, importo=552, prodotto=10
+2022-04-26 12:27|ACQUISTO|id=16718, cliente=7610, importo=873, prodotto=192
+2022-04-26 12:36|TEST|########################################
+2022-04-26 16:27|CANCELLAZIONE|########################################
+2022-04-26 20:33|ACQUISTO|id=16719, cliente=7610, importo=520, prodotto=171
+2022-04-26 23:21|ACQUISTO|id=16720, cliente=7583, importo=245, prodotto=79
+2022-04-27 11:57|ACQUISTO|id=16721, cliente=7513, importo=252, prodotto=5
+2022-04-27 14:36|RECLAMO|########################################
+2022-04-27 16:18|ACQUISTO|id=16722, cliente=7707, importo=848, prodotto=181
+2022-04-27 21:00|ACQUISTO|id=16723, cliente=7734, importo=255, prodotto=160
+2022-04-28 08:21|ACQUISTO|id=16724, cliente=7707, importo=169, prodotto=19
+2022-04-28 08:42|RECLAMO|########################################
+2022-04-28 09:15|CANCELLAZIONE|########################################
+2022-04-28 10:03|ACQUISTO|id=16725, cliente=7402, importo=348, prodotto=191
+2022-04-28 12:15|LOGIN|########################################
+2022-04-28 13:57|ACQUISTO|id=16726, cliente=7402, importo=348, prodotto=191
+2022-04-28 14:36|ACQUISTO|id=16727, cliente=7362, importo=667, prodotto=52
+2022-04-28 16:33|ACQUISTO|id=16728, cliente=7707, importo=938, prodotto=68
+2022-04-28 18:33|CANCELLAZIONE|########################################
+2022-04-28 19:27|ACQUISTO|id=16729, cliente=7385, importo=255, prodotto=160
+2022-04-28 21:33|ACQUISTO|id=16730, cliente=7499, importo=967, prodotto=11
+2022-04-28 21:54|ACQUISTO|id=16731, cliente=7402, importo=451, prodotto=200
+2022-04-29 09:09|ACQUISTO|id=16732, cliente=7551, importo=751, prodotto=27
+2022-04-29 11:51|ACQUISTO|id=16733, cliente=7707, importo=831, prodotto=32
+2022-04-29 11:57|ACQUISTO|id=16734, cliente=7427, importo=569, prodotto=4
+2022-04-29 16:15|CANCELLAZIONE|########################################
+2022-04-29 17:21|RESO|########################################
+2022-04-29 21:12|CANCELLAZIONE|########################################
+2022-04-29 21:15|ACQUISTO|id=16735, cliente=7362, importo=195, prodotto=54
+2022-04-29 22:27|ACQUISTO|id=16736, cliente=7532, importo=730, prodotto=91
+2022-04-30 09:21|ACQUISTO|id=16737, cliente=7610, importo=938, prodotto=68
+2022-04-30 11:30|LOGOUT|########################################
+2022-04-30 13:00|RESO|########################################
+2022-04-30 13:39|TEST|########################################
+2022-04-30 13:45|RECLAMO|########################################
+2022-04-30 15:51|RESO|########################################
+2022-04-30 16:57|ACQUISTO|id=16738, cliente=7734, importo=683, prodotto=58
+2022-04-30 20:06|ACQUISTO|id=16739, cliente=7639, importo=144, prodotto=196
+2022-04-30 21:06|ACQUISTO|id=16740, cliente=7645, importo=725, prodotto=72
+2022-05-01 09:24|TEST|########################################
+2022-05-01 10:27|TEST|########################################
+2022-05-01 14:12|LOGIN|########################################
+2022-05-01 17:00|LOGOUT|########################################
+2022-05-01 19:54|ACQUISTO|id=16741, cliente=7645, importo=145, prodotto=74
+2022-05-01 23:24|LOGOUT|########################################
+2022-05-02 08:00|ACQUISTO|id=16742, cliente=7427, importo=880, prodotto=189
+2022-05-02 10:39|ACQUISTO|id=16743, cliente=7551, importo=108, prodotto=9
+2022-05-02 14:00|ACQUISTO|id=16744, cliente=7532, importo=518, prodotto=141
+2022-05-02 14:54|RECLAMO|########################################
+2022-05-02 16:48|ACQUISTO|id=16745, cliente=7734, importo=432, prodotto=96
+2022-05-02 17:30|ACQUISTO|id=16746, cliente=7583, importo=22, prodotto=139
+2022-05-02 18:48|ACQUISTO|id=16747, cliente=7610, importo=245, prodotto=79
+2022-05-02 19:24|ACQUISTO|id=16748, cliente=7513, importo=443, prodotto=50
+2022-05-02 23:27|ACQUISTO|id=16749, cliente=7513, importo=637, prodotto=85
+2022-05-03 11:30|ACQUISTO|id=16750, cliente=7532, importo=181, prodotto=186
+2022-05-03 12:21|ACQUISTO|id=16751, cliente=7532, importo=278, prodotto=50
+2022-05-03 15:03|RECLAMO|########################################
+2022-05-03 16:42|ACQUISTO|id=16752, cliente=7362, importo=757, prodotto=114
+2022-05-03 18:00|ACQUISTO|id=16753, cliente=7486, importo=145, prodotto=74
+2022-05-03 19:06|ACQUISTO|id=16754, cliente=7645, importo=984, prodotto=170
+2022-05-03 21:03|RECLAMO|########################################
+2022-05-03 22:27|RECLAMO|########################################
+2022-05-03 23:12|CANCELLAZIONE|########################################
+2022-05-03 23:24|TEST|########################################
+2022-05-04 08:12|ACQUISTO|id=16755, cliente=7610, importo=137, prodotto=192
+2022-05-04 08:27|CANCELLAZIONE|########################################
+2022-05-04 09:30|ACQUISTO|id=16756, cliente=7427, importo=504, prodotto=159
+2022-05-04 11:36|ACQUISTO|id=16757, cliente=7688, importo=873, prodotto=192
+2022-05-04 15:27|ACQUISTO|id=16758, cliente=7402, importo=408, prodotto=135
+2022-05-04 19:09|ACQUISTO|id=16759, cliente=7707, importo=388, prodotto=126
+2022-05-05 08:09|TEST|########################################
+2022-05-05 10:33|LOGOUT|########################################
+2022-05-05 13:24|ACQUISTO|id=16760, cliente=7362, importo=408, prodotto=135
+2022-05-05 13:33|LOGIN|########################################
+2022-05-05 14:33|RECLAMO|########################################
+2022-05-05 18:24|ACQUISTO|id=16761, cliente=7639, importo=114, prodotto=33
+2022-05-05 23:06|CANCELLAZIONE|########################################
+2022-05-06 08:24|ACQUISTO|id=16762, cliente=7513, importo=22, prodotto=139
+2022-05-06 09:27|LOGIN|########################################
+2022-05-06 11:09|ACQUISTO|id=16763, cliente=7532, importo=458, prodotto=4
+2022-05-06 15:00|TEST|########################################
+2022-05-06 17:03|ACQUISTO|id=16764, cliente=7551, importo=22, prodotto=139
+2022-05-06 18:42|ACQUISTO|id=16765, cliente=7688, importo=245, prodotto=79
+2022-05-06 23:27|ACQUISTO|id=16766, cliente=7362, importo=752, prodotto=185
+2022-05-07 08:36|CANCELLAZIONE|########################################
+2022-05-07 13:30|TEST|########################################
+2022-05-07 16:30|LOGOUT|########################################
+2022-05-07 21:15|ACQUISTO|id=16767, cliente=7639, importo=225, prodotto=102
+2022-05-07 23:15|CANCELLAZIONE|########################################
+2022-05-08 09:42|ACQUISTO|id=16768, cliente=7385, importo=330, prodotto=139
+2022-05-08 12:12|CANCELLAZIONE|########################################
+2022-05-08 14:06|RECLAMO|########################################
+2022-05-08 15:42|ACQUISTO|id=16769, cliente=7427, importo=365, prodotto=21
+2022-05-08 20:06|ACQUISTO|id=16770, cliente=7688, importo=748, prodotto=99
+2022-05-08 23:09|ACQUISTO|id=16771, cliente=7402, importo=348, prodotto=191
+2022-05-09 09:27|CANCELLAZIONE|########################################
+2022-05-09 13:27|ACQUISTO|id=16772, cliente=7551, importo=809, prodotto=69
+2022-05-09 14:12|ACQUISTO|id=16773, cliente=7639, importo=215, prodotto=131
+2022-05-09 17:48|ACQUISTO|id=16774, cliente=7362, importo=730, prodotto=91
+2022-05-09 22:48|ACQUISTO|id=16775, cliente=7499, importo=527, prodotto=19
+2022-05-10 09:15|RESO|########################################
+2022-05-10 13:09|ACQUISTO|id=16776, cliente=7486, importo=99, prodotto=186
+2022-05-10 17:57|ACQUISTO|id=16777, cliente=7450, importo=725, prodotto=72
+2022-05-10 18:18|ACQUISTO|id=16778, cliente=7645, importo=552, prodotto=10
+2022-05-10 19:39|ACQUISTO|id=16779, cliente=7486, importo=99, prodotto=186
+2022-05-11 08:21|ACQUISTO|id=16780, cliente=7486, importo=289, prodotto=81
+2022-05-11 11:33|ACQUISTO|id=16781, cliente=7362, importo=365, prodotto=21
+2022-05-11 13:30|ACQUISTO|id=16782, cliente=7707, importo=619, prodotto=24
+2022-05-11 16:12|LOGOUT|########################################
+2022-05-11 20:48|ACQUISTO|id=16783, cliente=7402, importo=809, prodotto=69
+2022-05-11 21:15|TEST|########################################
+2022-05-12 08:12|TEST|########################################
+2022-05-12 12:15|LOGIN|########################################
+2022-05-12 14:06|ACQUISTO|id=16784, cliente=7610, importo=257, prodotto=194
+2022-05-12 15:15|ACQUISTO|id=16785, cliente=7499, importo=965, prodotto=45
+2022-05-12 17:24|ACQUISTO|id=16786, cliente=7402, importo=374, prodotto=42
+2022-05-12 21:24|ACQUISTO|id=16787, cliente=7499, importo=211, prodotto=12
+2022-05-12 22:03|LOGOUT|########################################
+2022-05-12 23:21|RECLAMO|########################################
+2022-05-13 10:18|ACQUISTO|id=16788, cliente=7610, importo=181, prodotto=186
+2022-05-13 10:30|ACQUISTO|id=16789, cliente=7450, importo=138, prodotto=192
+2022-05-13 14:30|CANCELLAZIONE|########################################
+2022-05-13 19:27|ACQUISTO|id=16790, cliente=7639, importo=831, prodotto=32
+2022-05-13 23:45|LOGOUT|########################################
+2022-05-14 10:33|ACQUISTO|id=16791, cliente=7639, importo=255, prodotto=160
+2022-05-14 13:18|RECLAMO|########################################
+2022-05-14 13:45|TEST|########################################
+2022-05-14 14:15|LOGIN|########################################
+2022-05-14 16:42|ACQUISTO|id=16792, cliente=7385, importo=730, prodotto=91
+2022-05-14 17:42|LOGIN|########################################
+2022-05-14 18:51|ACQUISTO|id=16793, cliente=7450, importo=854, prodotto=54
+2022-05-14 20:00|RESO|########################################
+2022-05-15 08:36|LOGOUT|########################################
+2022-05-15 10:21|LOGOUT|########################################
+2022-05-15 11:36|ACQUISTO|id=16794, cliente=7645, importo=518, prodotto=141
+2022-05-15 13:09|ACQUISTO|id=16795, cliente=7385, importo=22, prodotto=139
+2022-05-15 13:39|ACQUISTO|id=16796, cliente=7532, importo=138, prodotto=192
+2022-05-15 13:45|ACQUISTO|id=16797, cliente=7513, importo=854, prodotto=54
+2022-05-15 17:39|TEST|########################################
+2022-05-15 20:42|ACQUISTO|id=16798, cliente=7427, importo=458, prodotto=4
+2022-05-15 22:06|ACQUISTO|id=16799, cliente=7583, importo=108, prodotto=9
+2022-05-16 10:42|ACQUISTO|id=16800, cliente=7551, importo=434, prodotto=157
+2022-05-16 15:00|TEST|########################################
+2022-05-16 15:27|ACQUISTO|id=16801, cliente=7610, importo=22, prodotto=139
+2022-05-16 17:18|TEST|########################################
+2022-05-16 19:12|LOGIN|########################################
+2022-05-16 19:45|LOGIN|########################################
+2022-05-16 22:15|LOGOUT|########################################
+2022-05-17 11:09|ACQUISTO|id=16802, cliente=7610, importo=725, prodotto=72
+2022-05-17 12:06|CANCELLAZIONE|########################################
+2022-05-17 16:36|ACQUISTO|id=16803, cliente=7610, importo=518, prodotto=141
+2022-05-17 18:21|ACQUISTO|id=16804, cliente=7486, importo=752, prodotto=185
+2022-05-17 21:00|LOGIN|########################################
+2022-05-17 23:18|ACQUISTO|id=16805, cliente=7499, importo=667, prodotto=52
+2022-05-18 11:54|TEST|########################################
+2022-05-18 12:24|ACQUISTO|id=16806, cliente=7450, importo=245, prodotto=79
+2022-05-18 12:30|ACQUISTO|id=16807, cliente=7583, importo=313, prodotto=17
+2022-05-18 16:39|RECLAMO|########################################
+2022-05-18 18:54|ACQUISTO|id=16808, cliente=7362, importo=257, prodotto=194
+2022-05-18 22:06|ACQUISTO|id=16809, cliente=7532, importo=873, prodotto=192
+2022-05-18 23:24|ACQUISTO|id=16810, cliente=7610, importo=679, prodotto=72
+2022-05-19 11:51|ACQUISTO|id=16811, cliente=7688, importo=745, prodotto=62
+2022-05-19 12:18|ACQUISTO|id=16812, cliente=7610, importo=888, prodotto=45
+2022-05-19 17:18|ACQUISTO|id=16813, cliente=7402, importo=854, prodotto=81
+2022-05-19 18:57|ACQUISTO|id=16814, cliente=7513, importo=257, prodotto=194
+2022-05-19 20:18|ACQUISTO|id=16815, cliente=7402, importo=752, prodotto=185
+2022-05-19 20:36|ACQUISTO|id=16816, cliente=7402, importo=79, prodotto=168
+2022-05-20 09:30|LOGIN|########################################
+2022-05-20 14:12|TEST|########################################
+2022-05-20 16:33|TEST|########################################
+2022-05-20 18:42|ACQUISTO|id=16817, cliente=7499, importo=574, prodotto=48
+2022-05-20 20:00|LOGOUT|########################################
+2022-05-21 08:33|ACQUISTO|id=16818, cliente=7583, importo=854, prodotto=54
+2022-05-21 11:51|TEST|########################################
+2022-05-21 15:42|ACQUISTO|id=16819, cliente=7645, importo=978, prodotto=149
+2022-05-21 19:51|ACQUISTO|id=16820, cliente=7362, importo=667, prodotto=52
+2022-05-21 20:36|ACQUISTO|id=16821, cliente=7499, importo=211, prodotto=12
+2022-05-21 20:51|ACQUISTO|id=16822, cliente=7486, importo=330, prodotto=139
+2022-05-21 20:57|CANCELLAZIONE|########################################
+2022-05-21 23:36|ACQUISTO|id=16823, cliente=7707, importo=348, prodotto=191
+2022-05-22 11:54|LOGOUT|########################################
+2022-05-22 15:21|ACQUISTO|id=16824, cliente=7499, importo=850, prodotto=20
+2022-05-22 17:30|RESO|########################################
+2022-05-22 18:33|ACQUISTO|id=16825, cliente=7427, importo=348, prodotto=191
+2022-05-22 23:24|ACQUISTO|id=16826, cliente=7402, importo=850, prodotto=20
+2022-05-22 23:42|CANCELLAZIONE|########################################
+2022-05-23 08:30|ACQUISTO|id=16827, cliente=7707, importo=434, prodotto=157
+2022-05-23 11:12|ACQUISTO|id=16828, cliente=7645, importo=99, prodotto=186
+2022-05-23 11:33|RESO|########################################
+2022-05-23 16:06|ACQUISTO|id=16829, cliente=7583, importo=215, prodotto=131
+2022-05-23 16:57|RECLAMO|########################################
+2022-05-23 18:09|ACQUISTO|id=16830, cliente=7688, importo=22, prodotto=139
+2022-05-23 21:21|ACQUISTO|id=16831, cliente=7385, importo=850, prodotto=20
+2022-05-24 09:21|CANCELLAZIONE|########################################
+2022-05-24 10:30|ACQUISTO|id=16832, cliente=7532, importo=458, prodotto=4
+2022-05-24 10:42|LOGIN|########################################
+2022-05-24 10:48|ACQUISTO|id=16833, cliente=7688, importo=527, prodotto=19
+2022-05-24 12:57|LOGIN|########################################
+2022-05-24 13:12|ACQUISTO|id=16834, cliente=7385, importo=751, prodotto=27
+2022-05-24 13:54|ACQUISTO|id=16835, cliente=7532, importo=527, prodotto=19
+2022-05-24 14:33|ACQUISTO|id=16836, cliente=7486, importo=745, prodotto=62
+2022-05-24 17:27|ACQUISTO|id=16837, cliente=7610, importo=221, prodotto=27
+2022-05-24 21:57|ACQUISTO|id=16838, cliente=7688, importo=79, prodotto=168
+2022-05-24 22:18|RECLAMO|########################################
+2022-05-25 09:24|ACQUISTO|id=16839, cliente=7450, importo=145, prodotto=74
+2022-05-25 13:36|ACQUISTO|id=16840, cliente=7450, importo=535, prodotto=103
+2022-05-25 13:45|ACQUISTO|id=16841, cliente=7707, importo=967, prodotto=11
+2022-05-25 15:24|ACQUISTO|id=16842, cliente=7645, importo=863, prodotto=71
+2022-05-25 15:51|ACQUISTO|id=16843, cliente=7427, importo=880, prodotto=189
+2022-05-25 17:18|ACQUISTO|id=16844, cliente=7486, importo=637, prodotto=85
+2022-05-25 21:57|RECLAMO|########################################
+2022-05-25 22:06|ACQUISTO|id=16845, cliente=7610, importo=289, prodotto=81
+2022-05-25 23:03|CANCELLAZIONE|########################################
+2022-05-26 10:57|ACQUISTO|id=16846, cliente=7499, importo=99, prodotto=186
+2022-05-26 12:15|RESO|########################################
+2022-05-26 14:36|LOGIN|########################################
+2022-05-26 19:03|ACQUISTO|id=16847, cliente=7486, importo=938, prodotto=68
+2022-05-26 22:15|LOGOUT|########################################
+2022-05-26 23:06|ACQUISTO|id=16848, cliente=7362, importo=245, prodotto=79
+2022-05-27 11:15|TEST|########################################
+2022-05-27 12:33|ACQUISTO|id=16849, cliente=7362, importo=964, prodotto=2
+2022-05-27 15:51|TEST|########################################
+2022-05-27 19:36|TEST|########################################
+2022-05-27 22:30|ACQUISTO|id=16850, cliente=7551, importo=79, prodotto=168
+2022-05-27 23:03|ACQUISTO|id=16851, cliente=7486, importo=535, prodotto=103
+2022-05-27 23:39|ACQUISTO|id=16852, cliente=7532, importo=943, prodotto=118
+2022-05-28 09:24|ACQUISTO|id=16853, cliente=7385, importo=520, prodotto=54
+2022-05-28 14:09|TEST|########################################
+2022-05-28 15:18|ACQUISTO|id=16854, cliente=7513, importo=313, prodotto=17
+2022-05-28 17:36|RESO|########################################
+2022-05-28 20:09|ACQUISTO|id=16855, cliente=7610, importo=211, prodotto=12
+2022-05-28 23:06|ACQUISTO|id=16856, cliente=7513, importo=809, prodotto=69
+2022-05-29 09:09|ACQUISTO|id=16857, cliente=7486, importo=535, prodotto=103
+2022-05-29 12:15|LOGIN|########################################
+2022-05-29 14:54|ACQUISTO|id=16858, cliente=7499, importo=374, prodotto=42
+2022-05-29 17:36|TEST|########################################
+2022-05-29 18:30|LOGOUT|########################################
+2022-05-29 22:36|ACQUISTO|id=16859, cliente=7551, importo=214, prodotto=164
+2022-05-30 10:36|LOGOUT|########################################
+2022-05-30 14:48|ACQUISTO|id=16860, cliente=7486, importo=144, prodotto=196
+2022-05-30 19:24|LOGOUT|########################################
+2022-05-30 20:21|ACQUISTO|id=16861, cliente=7645, importo=569, prodotto=4
+2022-05-31 09:18|ACQUISTO|id=16862, cliente=7513, importo=142, prodotto=192
+2022-05-31 13:00|ACQUISTO|id=16863, cliente=7583, importo=313, prodotto=17
+2022-05-31 16:15|TEST|########################################
+2022-05-31 20:45|ACQUISTO|id=16864, cliente=7583, importo=637, prodotto=85
+2022-06-01 09:09|ACQUISTO|id=16865, cliente=7551, importo=552, prodotto=10
+2022-06-01 09:36|ACQUISTO|id=16866, cliente=7532, importo=957, prodotto=41
+2022-06-01 12:18|ACQUISTO|id=16867, cliente=7639, importo=991, prodotto=75
+2022-06-01 13:54|CANCELLAZIONE|########################################
+2022-06-01 14:03|ACQUISTO|id=16868, cliente=7402, importo=458, prodotto=4
+2022-06-01 17:39|ACQUISTO|id=16869, cliente=7362, importo=873, prodotto=192
+2022-06-01 22:36|ACQUISTO|id=16870, cliente=7610, importo=144, prodotto=196
+2022-06-01 23:18|RECLAMO|########################################
+2022-06-02 08:45|RECLAMO|########################################
+2022-06-02 11:18|ACQUISTO|id=16871, cliente=7450, importo=137, prodotto=192
+2022-06-02 12:42|ACQUISTO|id=16872, cliente=7486, importo=22, prodotto=139
+2022-06-02 13:51|ACQUISTO|id=16873, cliente=7450, importo=719, prodotto=194
+2022-06-02 18:36|LOGIN|########################################
+2022-06-02 20:48|ACQUISTO|id=16874, cliente=7532, importo=751, prodotto=27
+2022-06-02 23:51|ACQUISTO|id=16875, cliente=7513, importo=809, prodotto=69
+2022-06-03 11:06|ACQUISTO|id=16876, cliente=7486, importo=827, prodotto=188
+2022-06-03 15:00|ACQUISTO|id=16877, cliente=7583, importo=574, prodotto=48
+2022-06-03 19:15|ACQUISTO|id=16878, cliente=7610, importo=730, prodotto=91
+2022-06-03 19:45|ACQUISTO|id=16879, cliente=7362, importo=984, prodotto=170
+2022-06-03 22:21|LOGOUT|########################################
+2022-06-04 08:39|LOGOUT|########################################
+2022-06-04 13:12|ACQUISTO|id=16880, cliente=7707, importo=496, prodotto=65
+2022-06-04 14:24|ACQUISTO|id=16881, cliente=7513, importo=496, prodotto=65
+2022-06-04 15:36|ACQUISTO|id=16882, cliente=7551, importo=854, prodotto=81
+2022-06-04 15:45|TEST|########################################
+2022-06-04 18:33|ACQUISTO|id=16883, cliente=7645, importo=638, prodotto=12
+2022-06-04 22:33|ACQUISTO|id=16884, cliente=7513, importo=278, prodotto=50
+2022-06-04 22:57|ACQUISTO|id=16885, cliente=7707, importo=552, prodotto=10
+2022-06-05 11:51|LOGIN|########################################
+2022-06-05 12:21|ACQUISTO|id=16886, cliente=7645, importo=638, prodotto=12
+2022-06-05 13:57|LOGIN|########################################
+2022-06-05 16:18|ACQUISTO|id=16887, cliente=7551, importo=215, prodotto=131
+2022-06-05 20:06|ACQUISTO|id=16888, cliente=7707, importo=880, prodotto=189
+2022-06-05 20:36|ACQUISTO|id=16889, cliente=7688, importo=736, prodotto=119
+2022-06-06 09:21|ACQUISTO|id=16890, cliente=7639, importo=214, prodotto=164
+2022-06-06 12:51|ACQUISTO|id=16891, cliente=7513, importo=12, prodotto=155
+2022-06-06 13:15|LOGOUT|########################################
+2022-06-06 14:00|RESO|########################################
+2022-06-06 16:09|ACQUISTO|id=16892, cliente=7583, importo=108, prodotto=9
+2022-06-06 20:09|LOGIN|########################################
+2022-06-07 08:42|ACQUISTO|id=16893, cliente=7450, importo=535, prodotto=103
+2022-06-07 09:00|RESO|########################################
+2022-06-07 10:18|ACQUISTO|id=16894, cliente=7402, importo=408, prodotto=135
+2022-06-07 12:12|LOGIN|########################################
+2022-06-07 12:54|LOGIN|########################################
+2022-06-07 16:54|RESO|########################################
+2022-06-07 19:18|RESO|########################################
+2022-06-07 19:48|ACQUISTO|id=16895, cliente=7427, importo=201, prodotto=174
+2022-06-07 22:15|ACQUISTO|id=16896, cliente=7513, importo=679, prodotto=72
+2022-06-08 10:39|ACQUISTO|id=16897, cliente=7707, importo=443, prodotto=50
+2022-06-08 14:09|ACQUISTO|id=16898, cliente=7450, importo=957, prodotto=41
+2022-06-08 14:21|ACQUISTO|id=16899, cliente=7450, importo=751, prodotto=27
+2022-06-08 18:09|RESO|########################################
+2022-06-08 22:39|LOGIN|########################################
+2022-06-08 23:45|ACQUISTO|id=16900, cliente=7402, importo=289, prodotto=81
+2022-06-09 10:09|ACQUISTO|id=16901, cliente=7385, importo=252, prodotto=5
+2022-06-09 11:18|LOGIN|########################################
+2022-06-09 11:57|ACQUISTO|id=16902, cliente=7639, importo=408, prodotto=135
+2022-06-09 15:33|LOGIN|########################################
+2022-06-09 20:27|TEST|########################################
+2022-06-10 08:30|ACQUISTO|id=16903, cliente=7707, importo=330, prodotto=139
+2022-06-10 08:57|ACQUISTO|id=16904, cliente=7402, importo=374, prodotto=42
+2022-06-10 12:36|LOGIN|########################################
+2022-06-10 13:33|ACQUISTO|id=16905, cliente=7639, importo=22, prodotto=139
+2022-06-10 14:30|RECLAMO|########################################
+2022-06-10 14:33|CANCELLAZIONE|########################################
+2022-06-10 15:15|RECLAMO|########################################
+2022-06-10 17:45|RECLAMO|########################################
+2022-06-10 20:12|ACQUISTO|id=16906, cliente=7532, importo=873, prodotto=192
+2022-06-10 22:00|ACQUISTO|id=16907, cliente=7532, importo=637, prodotto=85
+2022-06-11 10:15|ACQUISTO|id=16908, cliente=7610, importo=831, prodotto=32
+2022-06-11 11:09|ACQUISTO|id=16909, cliente=7513, importo=880, prodotto=189
+2022-06-11 12:12|ACQUISTO|id=16910, cliente=7362, importo=12, prodotto=155
+2022-06-11 12:51|ACQUISTO|id=16911, cliente=7645, importo=535, prodotto=103
+2022-06-11 17:48|ACQUISTO|id=16912, cliente=7499, importo=388, prodotto=126
+2022-06-11 21:51|ACQUISTO|id=16913, cliente=7639, importo=574, prodotto=48
+2022-06-12 08:57|ACQUISTO|id=16914, cliente=7499, importo=557, prodotto=6
+2022-06-12 09:30|TEST|########################################
+2022-06-12 12:30|RESO|########################################
+2022-06-12 14:15|ACQUISTO|id=16915, cliente=7610, importo=638, prodotto=12
+2022-06-12 14:51|ACQUISTO|id=16916, cliente=7688, importo=82, prodotto=74
+2022-06-12 19:36|ACQUISTO|id=16917, cliente=7450, importo=809, prodotto=69
+2022-06-13 08:21|ACQUISTO|id=16918, cliente=7362, importo=12, prodotto=155
+2022-06-13 11:51|ACQUISTO|id=16919, cliente=7645, importo=965, prodotto=45
+2022-06-13 16:36|LOGIN|########################################
+2022-06-13 17:36|LOGIN|########################################
+2022-06-13 21:09|ACQUISTO|id=16920, cliente=7688, importo=518, prodotto=141
+2022-06-13 21:54|ACQUISTO|id=16921, cliente=7513, importo=984, prodotto=170
+2022-06-14 09:54|ACQUISTO|id=16922, cliente=7734, importo=461, prodotto=138
+2022-06-14 12:21|ACQUISTO|id=16923, cliente=7734, importo=880, prodotto=189
+2022-06-14 12:36|RESO|########################################
+2022-06-14 16:48|ACQUISTO|id=16924, cliente=7688, importo=557, prodotto=6
+2022-06-14 21:42|ACQUISTO|id=16925, cliente=7450, importo=863, prodotto=71
+2022-06-14 23:12|LOGOUT|########################################
+2022-06-15 11:51|LOGOUT|########################################
+2022-06-15 15:00|ACQUISTO|id=16926, cliente=7532, importo=667, prodotto=52
+2022-06-15 15:06|RESO|########################################
+2022-06-15 15:18|ACQUISTO|id=16927, cliente=7688, importo=855, prodotto=154
+2022-06-15 16:12|ACQUISTO|id=16928, cliente=7645, importo=722, prodotto=147
+2022-06-15 17:03|ACQUISTO|id=16929, cliente=7427, importo=313, prodotto=17
+2022-06-15 19:48|ACQUISTO|id=16930, cliente=7362, importo=518, prodotto=141
+2022-06-15 23:09|RECLAMO|########################################
+2022-06-16 10:51|TEST|########################################
+2022-06-16 14:15|LOGIN|########################################
+2022-06-16 15:57|ACQUISTO|id=16931, cliente=7688, importo=752, prodotto=185
+2022-06-16 17:51|LOGIN|########################################
+2022-06-16 17:54|ACQUISTO|id=16932, cliente=7385, importo=863, prodotto=71
+2022-06-16 18:09|TEST|########################################
+2022-06-16 21:12|RESO|########################################
+2022-06-16 23:03|ACQUISTO|id=16933, cliente=7385, importo=214, prodotto=164
+2022-06-17 10:33|ACQUISTO|id=16934, cliente=7639, importo=527, prodotto=19
+2022-06-17 12:57|ACQUISTO|id=16935, cliente=7402, importo=82, prodotto=74
+2022-06-17 15:54|ACQUISTO|id=16936, cliente=7532, importo=520, prodotto=54
+2022-06-17 17:21|ACQUISTO|id=16937, cliente=7734, importo=752, prodotto=185
+2022-06-17 17:45|LOGOUT|########################################
+2022-06-17 22:33|ACQUISTO|id=16938, cliente=7486, importo=606, prodotto=72
+2022-06-18 11:33|ACQUISTO|id=16939, cliente=7707, importo=751, prodotto=27
+2022-06-18 15:57|ACQUISTO|id=16940, cliente=7639, importo=145, prodotto=74
+2022-06-18 17:18|ACQUISTO|id=16941, cliente=7499, importo=978, prodotto=149
+2022-06-18 17:42|ACQUISTO|id=16942, cliente=7362, importo=374, prodotto=42
+2022-06-18 19:12|ACQUISTO|id=16943, cliente=7402, importo=722, prodotto=147
+2022-06-18 23:12|ACQUISTO|id=16944, cliente=7385, importo=719, prodotto=194
+2022-06-19 09:39|ACQUISTO|id=16945, cliente=7583, importo=138, prodotto=192
+2022-06-19 12:06|RESO|########################################
+2022-06-19 16:00|ACQUISTO|id=16946, cliente=7513, importo=854, prodotto=54
+2022-06-19 17:27|ACQUISTO|id=16947, cliente=7513, importo=748, prodotto=99
+2022-06-19 20:39|ACQUISTO|id=16948, cliente=7532, importo=751, prodotto=27
+2022-06-20 09:18|RESO|########################################
+2022-06-20 13:21|ACQUISTO|id=16949, cliente=7639, importo=443, prodotto=50
+2022-06-20 17:09|ACQUISTO|id=16950, cliente=7427, importo=552, prodotto=10
+2022-06-20 18:33|ACQUISTO|id=16951, cliente=7486, importo=938, prodotto=68
+2022-06-20 23:27|ACQUISTO|id=16952, cliente=7532, importo=12, prodotto=155
+2022-06-21 10:48|ACQUISTO|id=16953, cliente=7645, importo=221, prodotto=27
+2022-06-21 13:54|ACQUISTO|id=16954, cliente=7707, importo=535, prodotto=103
+2022-06-21 14:51|ACQUISTO|id=16955, cliente=7362, importo=255, prodotto=160
+2022-06-21 16:42|ACQUISTO|id=16956, cliente=7450, importo=854, prodotto=81
+2022-06-21 17:06|ACQUISTO|id=16957, cliente=7427, importo=725, prodotto=194
+2022-06-21 19:21|ACQUISTO|id=16958, cliente=7610, importo=984, prodotto=170
+2022-06-21 21:45|ACQUISTO|id=16959, cliente=7688, importo=518, prodotto=141
+2022-06-21 22:24|CANCELLAZIONE|########################################
+2022-06-22 10:18|ACQUISTO|id=16960, cliente=7734, importo=775, prodotto=187
+2022-06-22 13:39|ACQUISTO|id=16961, cliente=7551, importo=719, prodotto=194
+2022-06-22 15:27|ACQUISTO|id=16962, cliente=7450, importo=221, prodotto=27
+2022-06-22 18:15|ACQUISTO|id=16963, cliente=7734, importo=434, prodotto=157
+2022-06-22 19:15|ACQUISTO|id=16964, cliente=7707, importo=12, prodotto=155
+2022-06-22 20:42|TEST|########################################
+2022-06-22 22:42|ACQUISTO|id=16965, cliente=7450, importo=725, prodotto=194
+2022-06-23 08:18|ACQUISTO|id=16966, cliente=7639, importo=82, prodotto=74
+2022-06-23 10:54|ACQUISTO|id=16967, cliente=7639, importo=875, prodotto=68
+2022-06-23 13:21|LOGOUT|########################################
+2022-06-23 18:15|RECLAMO|########################################
+2022-06-23 19:06|ACQUISTO|id=16968, cliente=7513, importo=619, prodotto=24
+2022-06-23 22:36|ACQUISTO|id=16969, cliente=7645, importo=496, prodotto=65
+2022-06-24 11:09|ACQUISTO|id=16970, cliente=7639, importo=745, prodotto=62
+2022-06-24 15:03|RESO|########################################
+2022-06-24 16:30|ACQUISTO|id=16971, cliente=7362, importo=736, prodotto=119
+2022-06-24 21:12|ACQUISTO|id=16972, cliente=7551, importo=137, prodotto=192
+2022-06-24 21:21|ACQUISTO|id=16973, cliente=7583, importo=535, prodotto=103
+2022-06-24 22:42|TEST|########################################
+2022-06-24 23:57|ACQUISTO|id=16974, cliente=7513, importo=225, prodotto=102
+2022-06-25 12:15|ACQUISTO|id=16975, cliente=7402, importo=752, prodotto=185
+2022-06-25 16:42|RESO|########################################
+2022-06-25 18:51|LOGOUT|########################################
+2022-06-25 19:00|ACQUISTO|id=16976, cliente=7688, importo=984, prodotto=170
+2022-06-25 20:42|RECLAMO|########################################
+2022-06-25 21:27|ACQUISTO|id=16977, cliente=7610, importo=142, prodotto=192
+2022-06-25 23:18|RECLAMO|########################################
+2022-06-26 11:15|RECLAMO|########################################
+2022-06-26 12:12|ACQUISTO|id=16978, cliente=7610, importo=725, prodotto=72
+2022-06-26 13:15|ACQUISTO|id=16979, cliente=7402, importo=606, prodotto=72
+2022-06-26 17:39|ACQUISTO|id=16980, cliente=7385, importo=169, prodotto=19
+2022-06-26 18:06|ACQUISTO|id=16981, cliente=7532, importo=757, prodotto=114
+2022-06-26 19:09|TEST|########################################
+2022-06-26 21:15|ACQUISTO|id=16982, cliente=7427, importo=991, prodotto=75
+2022-06-26 21:48|ACQUISTO|id=16983, cliente=7513, importo=679, prodotto=72
+2022-06-26 23:30|ACQUISTO|id=16984, cliente=7639, importo=619, prodotto=24
+2022-06-27 10:57|ACQUISTO|id=16985, cliente=7583, importo=719, prodotto=194
+2022-06-27 13:06|RECLAMO|########################################
+2022-06-27 13:09|ACQUISTO|id=16986, cliente=7734, importo=854, prodotto=81
+2022-06-27 15:21|TEST|########################################
+2022-06-27 17:30|RESO|########################################
+2022-06-27 18:45|RESO|########################################
+2022-06-27 21:12|ACQUISTO|id=16987, cliente=7532, importo=518, prodotto=141
+2022-06-28 09:18|ACQUISTO|id=16988, cliente=7532, importo=245, prodotto=79
+2022-06-28 14:15|CANCELLAZIONE|########################################
+2022-06-28 16:30|ACQUISTO|id=16989, cliente=7532, importo=559, prodotto=190
+2022-06-28 16:54|CANCELLAZIONE|########################################
+2022-06-28 17:42|ACQUISTO|id=16990, cliente=7427, importo=365, prodotto=21
+2022-06-28 19:24|ACQUISTO|id=16991, cliente=7450, importo=638, prodotto=12
+2022-06-28 20:36|ACQUISTO|id=16992, cliente=7583, importo=965, prodotto=45
+2022-06-28 22:51|ACQUISTO|id=16993, cliente=7402, importo=722, prodotto=147
+2022-06-28 23:45|ACQUISTO|id=16994, cliente=7402, importo=330, prodotto=139
+2022-06-29 10:57|ACQUISTO|id=16995, cliente=7486, importo=137, prodotto=192
+2022-06-29 12:15|ACQUISTO|id=16996, cliente=7532, importo=527, prodotto=19
+2022-06-29 16:21|ACQUISTO|id=16997, cliente=7532, importo=388, prodotto=126
+2022-06-29 21:00|ACQUISTO|id=16998, cliente=7513, importo=880, prodotto=189
+2022-06-29 21:09|CANCELLAZIONE|########################################
+2022-06-29 23:09|ACQUISTO|id=16999, cliente=7688, importo=552, prodotto=10
+2022-06-29 23:36|CANCELLAZIONE|########################################
+2022-06-30 09:18|ACQUISTO|id=17000, cliente=7551, importo=621, prodotto=174
+2022-06-30 11:48|ACQUISTO|id=17001, cliente=7688, importo=873, prodotto=192
+2022-06-30 16:27|CANCELLAZIONE|########################################
+2022-06-30 19:15|CANCELLAZIONE|########################################
+2022-06-30 21:48|LOGIN|########################################
+2022-06-30 21:51|RESO|########################################
+2022-07-01 08:03|ACQUISTO|id=17002, cliente=7688, importo=957, prodotto=41
+2022-07-01 11:36|RESO|########################################
+2022-07-01 16:21|TEST|########################################
+2022-07-01 19:06|TEST|########################################
+2022-07-01 23:24|ACQUISTO|id=17003, cliente=7583, importo=679, prodotto=72
+2022-07-02 08:09|ACQUISTO|id=17004, cliente=7645, importo=278, prodotto=50
+2022-07-02 12:06|ACQUISTO|id=17005, cliente=7734, importo=722, prodotto=147
+2022-07-02 16:00|TEST|########################################
+2022-07-02 18:57|TEST|########################################
+2022-07-02 21:39|ACQUISTO|id=17006, cliente=7385, importo=348, prodotto=191
+2022-07-02 21:54|LOGIN|########################################
+2022-07-02 22:36|ACQUISTO|id=17007, cliente=7532, importo=221, prodotto=27
+2022-07-02 23:30|ACQUISTO|id=17008, cliente=7402, importo=722, prodotto=147
+2022-07-03 11:51|RECLAMO|########################################
+2022-07-03 14:30|LOGIN|########################################
+2022-07-03 17:42|ACQUISTO|id=17009, cliente=7610, importo=854, prodotto=54
+2022-07-03 18:27|ACQUISTO|id=17010, cliente=7362, importo=144, prodotto=196
+2022-07-03 22:18|ACQUISTO|id=17011, cliente=7450, importo=850, prodotto=20
+2022-07-04 08:00|RESO|########################################
+2022-07-04 08:09|ACQUISTO|id=17012, cliente=7532, importo=451, prodotto=200
+2022-07-04 08:48|CANCELLAZIONE|########################################
+2022-07-04 13:48|LOGIN|########################################
+2022-07-04 14:18|ACQUISTO|id=17013, cliente=7707, importo=348, prodotto=191
+2022-07-04 14:39|ACQUISTO|id=17014, cliente=7583, importo=957, prodotto=41
+2022-07-04 15:30|CANCELLAZIONE|########################################
+2022-07-04 16:57|ACQUISTO|id=17015, cliente=7513, importo=313, prodotto=17
+2022-07-04 17:18|ACQUISTO|id=17016, cliente=7639, importo=481, prodotto=3
+2022-07-04 19:30|ACQUISTO|id=17017, cliente=7385, importo=751, prodotto=27
+2022-07-04 21:21|LOGIN|########################################
+2022-07-04 23:33|CANCELLAZIONE|########################################
+2022-07-05 10:48|LOGOUT|########################################
+2022-07-05 12:12|ACQUISTO|id=17018, cliente=7688, importo=725, prodotto=194
+2022-07-05 16:00|ACQUISTO|id=17019, cliente=7513, importo=736, prodotto=119
+2022-07-05 20:15|ACQUISTO|id=17020, cliente=7734, importo=757, prodotto=114
+2022-07-05 21:33|ACQUISTO|id=17021, cliente=7402, importo=145, prodotto=74
+2022-07-06 10:30|ACQUISTO|id=17022, cliente=7610, importo=725, prodotto=194
+2022-07-06 11:57|ACQUISTO|id=17023, cliente=7551, importo=888, prodotto=45
+2022-07-06 13:42|ACQUISTO|id=17024, cliente=7639, importo=289, prodotto=81
+2022-07-06 17:27|ACQUISTO|id=17025, cliente=7639, importo=408, prodotto=135
+2022-07-06 19:24|TEST|########################################
+2022-07-06 22:27|ACQUISTO|id=17026, cliente=7532, importo=757, prodotto=114
+2022-07-06 23:30|ACQUISTO|id=17027, cliente=7513, importo=752, prodotto=185
+2022-07-07 08:09|ACQUISTO|id=17028, cliente=7402, importo=330, prodotto=139
+2022-07-07 08:45|ACQUISTO|id=17029, cliente=7639, importo=518, prodotto=141
+2022-07-07 11:09|ACQUISTO|id=17030, cliente=7402, importo=875, prodotto=68
+2022-07-07 15:15|ACQUISTO|id=17031, cliente=7734, importo=496, prodotto=65
+2022-07-07 19:09|ACQUISTO|id=17032, cliente=7427, importo=278, prodotto=50
+2022-07-07 20:00|ACQUISTO|id=17033, cliente=7402, importo=443, prodotto=50
+2022-07-07 23:21|ACQUISTO|id=17034, cliente=7583, importo=225, prodotto=34
+2022-07-08 10:36|ACQUISTO|id=17035, cliente=7499, importo=850, prodotto=20
+2022-07-08 14:03|RESO|########################################
+2022-07-08 17:09|ACQUISTO|id=17036, cliente=7486, importo=757, prodotto=114
+2022-07-08 20:21|ACQUISTO|id=17037, cliente=7610, importo=181, prodotto=186
+2022-07-08 22:03|ACQUISTO|id=17038, cliente=7688, importo=434, prodotto=157
+2022-07-08 22:45|ACQUISTO|id=17039, cliente=7402, importo=434, prodotto=157
+2022-07-08 23:48|ACQUISTO|id=17040, cliente=7499, importo=848, prodotto=181
+2022-07-09 11:48|RESO|########################################
+2022-07-09 12:42|ACQUISTO|id=17041, cliente=7385, importo=408, prodotto=135
+2022-07-09 17:00|RESO|########################################
+2022-07-09 21:36|ACQUISTO|id=17042, cliente=7385, importo=902, prodotto=133
+2022-07-09 22:30|ACQUISTO|id=17043, cliente=7610, importo=745, prodotto=62
+2022-07-10 09:45|ACQUISTO|id=17044, cliente=7402, importo=403, prodotto=82
+2022-07-10 13:06|TEST|########################################
+2022-07-10 16:42|ACQUISTO|id=17045, cliente=7551, importo=938, prodotto=68
+2022-07-10 19:45|ACQUISTO|id=17046, cliente=7385, importo=854, prodotto=81
+2022-07-10 22:48|ACQUISTO|id=17047, cliente=7688, importo=144, prodotto=196
+2022-07-10 23:30|ACQUISTO|id=17048, cliente=7427, importo=257, prodotto=194
+2022-07-11 11:24|ACQUISTO|id=17049, cliente=7450, importo=215, prodotto=131
+2022-07-11 13:09|ACQUISTO|id=17050, cliente=7402, importo=619, prodotto=24
+2022-07-11 15:18|ACQUISTO|id=17051, cliente=7583, importo=408, prodotto=135
+2022-07-11 17:48|CANCELLAZIONE|########################################
+2022-07-11 18:54|LOGOUT|########################################
+2022-07-11 19:12|RESO|########################################
+2022-07-11 19:39|TEST|########################################
+2022-07-11 20:24|CANCELLAZIONE|########################################
+2022-07-12 09:06|ACQUISTO|id=17052, cliente=7513, importo=108, prodotto=9
+2022-07-12 13:36|LOGIN|########################################
+2022-07-12 16:57|ACQUISTO|id=17053, cliente=7513, importo=725, prodotto=194
+2022-07-12 21:30|CANCELLAZIONE|########################################
+2022-07-13 10:09|ACQUISTO|id=17054, cliente=7688, importo=745, prodotto=62
+2022-07-13 11:42|RESO|########################################
+2022-07-13 15:48|ACQUISTO|id=17055, cliente=7645, importo=520, prodotto=54
+2022-07-13 17:09|CANCELLAZIONE|########################################
+2022-07-13 21:03|LOGOUT|########################################
+2022-07-14 08:42|LOGOUT|########################################
+2022-07-14 13:09|ACQUISTO|id=17056, cliente=7402, importo=679, prodotto=72
+2022-07-14 15:54|ACQUISTO|id=17057, cliente=7499, importo=278, prodotto=50
+2022-07-14 16:30|ACQUISTO|id=17058, cliente=7639, importo=880, prodotto=189
+2022-07-14 16:57|ACQUISTO|id=17059, cliente=7610, importo=667, prodotto=52
+2022-07-14 21:00|ACQUISTO|id=17060, cliente=7734, importo=520, prodotto=171
+2022-07-15 08:54|LOGIN|########################################
+2022-07-15 09:15|ACQUISTO|id=17061, cliente=7427, importo=619, prodotto=24
+2022-07-15 10:51|CANCELLAZIONE|########################################
+2022-07-15 13:15|LOGIN|########################################
+2022-07-15 16:51|LOGIN|########################################
+2022-07-15 17:33|LOGIN|########################################
+2022-07-15 19:30|ACQUISTO|id=17062, cliente=7385, importo=481, prodotto=3
+2022-07-15 21:00|RECLAMO|########################################
+2022-07-15 23:57|ACQUISTO|id=17063, cliente=7610, importo=984, prodotto=170
+2022-07-16 08:39|CANCELLAZIONE|########################################
+2022-07-16 13:33|LOGIN|########################################
+2022-07-16 14:09|ACQUISTO|id=17064, cliente=7402, importo=365, prodotto=21
+2022-07-16 19:09|ACQUISTO|id=17065, cliente=7734, importo=854, prodotto=81
+2022-07-16 22:09|TEST|########################################
+2022-07-17 08:36|RECLAMO|########################################
+2022-07-17 09:45|TEST|########################################
+2022-07-17 12:06|CANCELLAZIONE|########################################
+2022-07-17 12:39|RESO|########################################
+2022-07-17 13:15|ACQUISTO|id=17066, cliente=7385, importo=99, prodotto=186
+2022-07-17 16:21|RECLAMO|########################################
+2022-07-17 18:30|RESO|########################################
+2022-07-17 18:54|LOGIN|########################################
+2022-07-17 21:06|ACQUISTO|id=17067, cliente=7645, importo=888, prodotto=45
+2022-07-17 21:57|ACQUISTO|id=17068, cliente=7532, importo=114, prodotto=33
+2022-07-17 22:54|ACQUISTO|id=17069, cliente=7734, importo=215, prodotto=131
+2022-07-18 09:12|ACQUISTO|id=17070, cliente=7610, importo=569, prodotto=4
+2022-07-18 13:45|ACQUISTO|id=17071, cliente=7532, importo=458, prodotto=4
+2022-07-18 17:09|ACQUISTO|id=17072, cliente=7645, importo=875, prodotto=68
+2022-07-18 21:45|ACQUISTO|id=17073, cliente=7532, importo=215, prodotto=131
+2022-07-19 08:33|TEST|########################################
+2022-07-19 12:45|ACQUISTO|id=17074, cliente=7450, importo=432, prodotto=96
+2022-07-19 14:21|ACQUISTO|id=17075, cliente=7402, importo=211, prodotto=12
+2022-07-19 18:33|ACQUISTO|id=17076, cliente=7645, importo=84, prodotto=6
+2022-07-19 22:57|LOGIN|########################################
+2022-07-19 23:39|ACQUISTO|id=17077, cliente=7583, importo=667, prodotto=52
+2022-07-20 10:18|ACQUISTO|id=17078, cliente=7385, importo=751, prodotto=27
+2022-07-20 13:57|RESO|########################################
+2022-07-20 17:48|ACQUISTO|id=17079, cliente=7688, importo=432, prodotto=96
+2022-07-20 21:03|ACQUISTO|id=17080, cliente=7486, importo=330, prodotto=139
+2022-07-21 09:45|ACQUISTO|id=17081, cliente=7707, importo=574, prodotto=48
+2022-07-21 14:30|ACQUISTO|id=17082, cliente=7427, importo=278, prodotto=50
+2022-07-21 18:03|ACQUISTO|id=17083, cliente=7707, importo=888, prodotto=45
+2022-07-21 21:57|ACQUISTO|id=17084, cliente=7427, importo=527, prodotto=19
+2022-07-22 10:54|ACQUISTO|id=17085, cliente=7639, importo=722, prodotto=147
+2022-07-22 12:21|LOGOUT|########################################
+2022-07-22 14:21|ACQUISTO|id=17086, cliente=7385, importo=181, prodotto=186
+2022-07-22 18:09|ACQUISTO|id=17087, cliente=7450, importo=520, prodotto=171
+2022-07-22 21:21|TEST|########################################
+2022-07-22 23:39|ACQUISTO|id=17088, cliente=7583, importo=637, prodotto=85
+2022-07-22 23:45|ACQUISTO|id=17089, cliente=7645, importo=365, prodotto=21
+2022-07-23 11:51|ACQUISTO|id=17090, cliente=7385, importo=752, prodotto=185
+2022-07-23 16:12|RESO|########################################
+2022-07-23 18:09|TEST|########################################
+2022-07-23 21:48|ACQUISTO|id=17091, cliente=7385, importo=606, prodotto=72
+2022-07-23 23:15|ACQUISTO|id=17092, cliente=7427, importo=943, prodotto=118
+2022-07-24 10:24|ACQUISTO|id=17093, cliente=7610, importo=752, prodotto=185
+2022-07-24 15:15|ACQUISTO|id=17094, cliente=7486, importo=348, prodotto=191
+2022-07-24 16:18|CANCELLAZIONE|########################################
+2022-07-24 19:48|CANCELLAZIONE|########################################
+2022-07-24 23:27|ACQUISTO|id=17095, cliente=7385, importo=374, prodotto=42
+2022-07-25 08:39|RECLAMO|########################################
+2022-07-25 10:15|RECLAMO|########################################
+2022-07-25 11:45|RECLAMO|########################################
+2022-07-25 12:48|ACQUISTO|id=17096, cliente=7707, importo=496, prodotto=65
+2022-07-25 17:03|RECLAMO|########################################
+2022-07-25 22:03|ACQUISTO|id=17097, cliente=7427, importo=574, prodotto=48
+2022-07-26 10:39|RESO|########################################
+2022-07-26 11:54|ACQUISTO|id=17098, cliente=7450, importo=569, prodotto=4
+2022-07-26 14:15|LOGIN|########################################
+2022-07-26 19:06|CANCELLAZIONE|########################################
+2022-07-26 20:36|ACQUISTO|id=17099, cliente=7362, importo=520, prodotto=54
+2022-07-26 23:03|ACQUISTO|id=17100, cliente=7450, importo=22, prodotto=139
+2022-07-27 09:42|ACQUISTO|id=17101, cliente=7551, importo=902, prodotto=133
+2022-07-27 12:30|ACQUISTO|id=17102, cliente=7499, importo=730, prodotto=91
+2022-07-27 15:27|ACQUISTO|id=17103, cliente=7688, importo=967, prodotto=11
+2022-07-27 18:42|ACQUISTO|id=17104, cliente=7513, importo=169, prodotto=19
+2022-07-27 19:57|ACQUISTO|id=17105, cliente=7513, importo=574, prodotto=48
+2022-07-28 08:33|RECLAMO|########################################
+2022-07-28 10:48|ACQUISTO|id=17106, cliente=7486, importo=991, prodotto=75
+2022-07-28 11:27|TEST|########################################
+2022-07-28 16:12|ACQUISTO|id=17107, cliente=7551, importo=967, prodotto=11
+2022-07-28 20:00|ACQUISTO|id=17108, cliente=7688, importo=559, prodotto=190
+2022-07-28 23:48|RESO|########################################
+2022-07-29 10:12|ACQUISTO|id=17109, cliente=7688, importo=855, prodotto=154
+2022-07-29 10:27|ACQUISTO|id=17110, cliente=7486, importo=574, prodotto=48
+2022-07-29 14:24|ACQUISTO|id=17111, cliente=7734, importo=348, prodotto=191
+2022-07-29 16:06|ACQUISTO|id=17112, cliente=7583, importo=257, prodotto=194
+2022-07-29 18:18|LOGIN|########################################
+2022-07-29 20:06|ACQUISTO|id=17113, cliente=7499, importo=138, prodotto=192
+2022-07-29 22:15|LOGOUT|########################################
+2022-07-30 10:57|ACQUISTO|id=17114, cliente=7532, importo=638, prodotto=12
+2022-07-30 12:18|CANCELLAZIONE|########################################
+2022-07-30 17:15|LOGOUT|########################################
+2022-07-30 19:09|ACQUISTO|id=17115, cliente=7513, importo=114, prodotto=33
+2022-07-30 19:51|RECLAMO|########################################
+2022-07-30 23:09|ACQUISTO|id=17116, cliente=7645, importo=214, prodotto=164
+2022-07-31 11:48|ACQUISTO|id=17117, cliente=7486, importo=809, prodotto=69
+2022-07-31 15:39|ACQUISTO|id=17118, cliente=7707, importo=214, prodotto=164
+2022-07-31 19:06|ACQUISTO|id=17119, cliente=7707, importo=99, prodotto=186
+2022-07-31 20:27|ACQUISTO|id=17120, cliente=7610, importo=855, prodotto=154
+2022-07-31 23:30|LOGOUT|########################################
+2022-08-01 10:09|ACQUISTO|id=17121, cliente=7486, importo=169, prodotto=19
+2022-08-01 10:27|CANCELLAZIONE|########################################
+2022-08-01 10:33|ACQUISTO|id=17122, cliente=7499, importo=496, prodotto=65
+2022-08-01 10:57|ACQUISTO|id=17123, cliente=7734, importo=518, prodotto=141
+2022-08-01 12:30|ACQUISTO|id=17124, cliente=7532, importo=880, prodotto=189
+2022-08-01 14:12|ACQUISTO|id=17125, cliente=7402, importo=752, prodotto=185
+2022-08-01 18:18|RECLAMO|########################################
+2022-08-01 19:06|ACQUISTO|id=17126, cliente=7427, importo=957, prodotto=41
+2022-08-01 19:39|ACQUISTO|id=17127, cliente=7450, importo=722, prodotto=147
+2022-08-01 22:51|ACQUISTO|id=17128, cliente=7427, importo=278, prodotto=50
+2022-08-02 08:09|RECLAMO|########################################
+2022-08-02 12:00|ACQUISTO|id=17129, cliente=7688, importo=827, prodotto=188
+2022-08-02 13:27|ACQUISTO|id=17130, cliente=7688, importo=527, prodotto=19
+2022-08-02 15:42|ACQUISTO|id=17131, cliente=7402, importo=289, prodotto=81
+2022-08-02 17:15|ACQUISTO|id=17132, cliente=7486, importo=978, prodotto=149
+2022-08-02 20:36|ACQUISTO|id=17133, cliente=7532, importo=181, prodotto=186
+2022-08-02 21:00|ACQUISTO|id=17134, cliente=7583, importo=719, prodotto=194
+2022-08-02 23:30|ACQUISTO|id=17135, cliente=7450, importo=278, prodotto=50
+2022-08-03 08:42|ACQUISTO|id=17136, cliente=7610, importo=252, prodotto=5
+2022-08-03 09:45|CANCELLAZIONE|########################################
+2022-08-03 12:39|LOGOUT|########################################
+2022-08-03 13:36|ACQUISTO|id=17137, cliente=7362, importo=255, prodotto=160
+2022-08-03 15:57|ACQUISTO|id=17138, cliente=7688, importo=957, prodotto=41
+2022-08-03 17:48|ACQUISTO|id=17139, cliente=7734, importo=195, prodotto=54
+2022-08-03 22:09|ACQUISTO|id=17140, cliente=7385, importo=278, prodotto=50
+2022-08-04 10:36|TEST|########################################
+2022-08-04 14:09|ACQUISTO|id=17141, cliente=7551, importo=855, prodotto=154
+2022-08-04 17:54|ACQUISTO|id=17142, cliente=7402, importo=637, prodotto=85
+2022-08-04 22:39|CANCELLAZIONE|########################################
+2022-08-05 10:33|ACQUISTO|id=17143, cliente=7645, importo=278, prodotto=50
+2022-08-05 11:03|LOGIN|########################################
+2022-08-05 11:12|LOGIN|########################################
+2022-08-05 11:33|LOGOUT|########################################
+2022-08-05 12:24|TEST|########################################
+2022-08-05 15:36|ACQUISTO|id=17144, cliente=7499, importo=527, prodotto=19
+2022-08-05 17:45|ACQUISTO|id=17145, cliente=7486, importo=289, prodotto=81
+2022-08-05 22:39|TEST|########################################
+2022-08-06 09:51|LOGOUT|########################################
+2022-08-06 13:18|RECLAMO|########################################
+2022-08-06 16:12|ACQUISTO|id=17146, cliente=7402, importo=451, prodotto=200
+2022-08-06 19:09|ACQUISTO|id=17147, cliente=7362, importo=552, prodotto=10
+2022-08-06 20:12|ACQUISTO|id=17148, cliente=7583, importo=736, prodotto=119
+2022-08-06 21:33|ACQUISTO|id=17149, cliente=7645, importo=388, prodotto=126
+2022-08-07 10:27|ACQUISTO|id=17150, cliente=7610, importo=252, prodotto=5
+2022-08-07 14:36|RECLAMO|########################################
+2022-08-07 17:45|ACQUISTO|id=17151, cliente=7499, importo=365, prodotto=21
+2022-08-07 19:00|ACQUISTO|id=17152, cliente=7427, importo=552, prodotto=10
+2022-08-07 21:24|RESO|########################################
+2022-08-08 09:45|RESO|########################################
+2022-08-08 11:27|LOGIN|########################################
+2022-08-08 11:45|CANCELLAZIONE|########################################
+2022-08-08 14:51|ACQUISTO|id=17153, cliente=7551, importo=443, prodotto=50
+2022-08-08 16:42|TEST|########################################
+2022-08-08 21:27|TEST|########################################
+2022-08-08 22:30|CANCELLAZIONE|########################################
+2022-08-09 10:48|ACQUISTO|id=17154, cliente=7362, importo=245, prodotto=79
+2022-08-09 11:33|ACQUISTO|id=17155, cliente=7688, importo=719, prodotto=194
+2022-08-09 14:09|ACQUISTO|id=17156, cliente=7385, importo=252, prodotto=5
+2022-08-09 16:21|ACQUISTO|id=17157, cliente=7583, importo=443, prodotto=50
+2022-08-09 18:00|ACQUISTO|id=17158, cliente=7688, importo=22, prodotto=139
+2022-08-09 18:21|ACQUISTO|id=17159, cliente=7583, importo=481, prodotto=3
+2022-08-09 21:45|ACQUISTO|id=17160, cliente=7610, importo=748, prodotto=99
+2022-08-10 08:30|RESO|########################################
+2022-08-10 13:06|ACQUISTO|id=17161, cliente=7362, importo=408, prodotto=135
+2022-08-10 15:48|TEST|########################################
+2022-08-10 16:45|RESO|########################################
+2022-08-10 20:36|RECLAMO|########################################
+2022-08-10 23:12|ACQUISTO|id=17162, cliente=7707, importo=984, prodotto=170
+2022-08-11 09:48|RECLAMO|########################################
+2022-08-11 13:00|ACQUISTO|id=17163, cliente=7499, importo=221, prodotto=27
+2022-08-11 15:00|LOGIN|########################################
+2022-08-11 19:24|ACQUISTO|id=17164, cliente=7688, importo=289, prodotto=81
+2022-08-11 19:54|ACQUISTO|id=17165, cliente=7551, importo=137, prodotto=192
+2022-08-12 08:45|ACQUISTO|id=17166, cliente=7513, importo=451, prodotto=200
+2022-08-12 12:00|ACQUISTO|id=17167, cliente=7551, importo=638, prodotto=12
+2022-08-12 12:24|ACQUISTO|id=17168, cliente=7499, importo=991, prodotto=75
+2022-08-12 15:57|ACQUISTO|id=17169, cliente=7427, importo=432, prodotto=96
+2022-08-12 16:00|ACQUISTO|id=17170, cliente=7645, importo=108, prodotto=9
+2022-08-12 21:00|ACQUISTO|id=17171, cliente=7551, importo=863, prodotto=71
+2022-08-12 22:18|ACQUISTO|id=17172, cliente=7532, importo=722, prodotto=147
+2022-08-12 22:36|TEST|########################################
+2022-08-12 22:54|ACQUISTO|id=17173, cliente=7499, importo=201, prodotto=174
+2022-08-13 08:27|TEST|########################################
+2022-08-13 13:15|CANCELLAZIONE|########################################
+2022-08-13 16:30|LOGIN|########################################
+2022-08-13 17:36|TEST|########################################
+2022-08-13 18:09|ACQUISTO|id=17174, cliente=7583, importo=854, prodotto=81
+2022-08-13 20:30|ACQUISTO|id=17175, cliente=7450, importo=751, prodotto=27
+2022-08-13 21:48|ACQUISTO|id=17176, cliente=7707, importo=719, prodotto=194
+2022-08-14 08:09|ACQUISTO|id=17177, cliente=7486, importo=683, prodotto=58
+2022-08-14 10:18|ACQUISTO|id=17178, cliente=7450, importo=99, prodotto=186
+2022-08-14 13:39|ACQUISTO|id=17179, cliente=7645, importo=225, prodotto=34
+2022-08-14 16:30|ACQUISTO|id=17180, cliente=7707, importo=225, prodotto=34
+2022-08-14 20:24|ACQUISTO|id=17181, cliente=7499, importo=967, prodotto=11
+2022-08-14 20:57|ACQUISTO|id=17182, cliente=7688, importo=722, prodotto=147
+2022-08-14 22:15|ACQUISTO|id=17183, cliente=7402, importo=169, prodotto=19
+2022-08-15 09:57|ACQUISTO|id=17184, cliente=7583, importo=84, prodotto=6
+2022-08-15 14:15|ACQUISTO|id=17185, cliente=7734, importo=719, prodotto=194
+2022-08-15 16:39|ACQUISTO|id=17186, cliente=7427, importo=736, prodotto=119
+2022-08-15 19:48|ACQUISTO|id=17187, cliente=7486, importo=496, prodotto=65
+2022-08-15 21:42|ACQUISTO|id=17188, cliente=7486, importo=991, prodotto=75
+2022-08-16 08:42|RECLAMO|########################################
+2022-08-16 13:33|TEST|########################################
+2022-08-16 18:00|RECLAMO|########################################
+2022-08-16 19:09|CANCELLAZIONE|########################################
+2022-08-16 21:30|ACQUISTO|id=17189, cliente=7486, importo=365, prodotto=21
+2022-08-17 08:30|ACQUISTO|id=17190, cliente=7583, importo=181, prodotto=186
+2022-08-17 12:06|LOGIN|########################################
+2022-08-17 15:48|ACQUISTO|id=17191, cliente=7532, importo=873, prodotto=192
+2022-08-17 19:09|ACQUISTO|id=17192, cliente=7645, importo=619, prodotto=24
+2022-08-17 22:30|ACQUISTO|id=17193, cliente=7499, importo=535, prodotto=103
+2022-08-17 23:18|LOGIN|########################################
+2022-08-18 08:36|ACQUISTO|id=17194, cliente=7385, importo=752, prodotto=185
+2022-08-18 12:03|ACQUISTO|id=17195, cliente=7499, importo=137, prodotto=192
+2022-08-18 12:06|ACQUISTO|id=17196, cliente=7362, importo=569, prodotto=4
+2022-08-18 16:09|ACQUISTO|id=17197, cliente=7639, importo=520, prodotto=54
+2022-08-18 19:45|ACQUISTO|id=17198, cliente=7402, importo=313, prodotto=17
+2022-08-18 23:24|ACQUISTO|id=17199, cliente=7610, importo=22, prodotto=139
+2022-08-19 08:33|RECLAMO|########################################
+2022-08-19 10:12|ACQUISTO|id=17200, cliente=7610, importo=82, prodotto=74
+2022-08-19 11:03|ACQUISTO|id=17201, cliente=7610, importo=873, prodotto=192
+2022-08-19 11:36|LOGOUT|########################################
+2022-08-19 12:42|ACQUISTO|id=17202, cliente=7402, importo=365, prodotto=21
+2022-08-19 17:09|RECLAMO|########################################
+2022-08-19 22:03|ACQUISTO|id=17203, cliente=7486, importo=434, prodotto=157
+2022-08-19 22:18|ACQUISTO|id=17204, cliente=7583, importo=245, prodotto=79
+2022-08-20 09:42|ACQUISTO|id=17205, cliente=7402, importo=169, prodotto=19
+2022-08-20 10:45|TEST|########################################
+2022-08-20 11:48|LOGIN|########################################
+2022-08-20 16:06|ACQUISTO|id=17206, cliente=7583, importo=679, prodotto=72
+2022-08-20 19:51|LOGIN|########################################
+2022-08-20 22:57|ACQUISTO|id=17207, cliente=7583, importo=725, prodotto=72
+2022-08-21 11:39|ACQUISTO|id=17208, cliente=7707, importo=252, prodotto=5
+2022-08-21 14:51|ACQUISTO|id=17209, cliente=7427, importo=683, prodotto=58
+2022-08-21 15:39|ACQUISTO|id=17210, cliente=7734, importo=432, prodotto=96
+2022-08-21 19:42|LOGIN|########################################
+2022-08-21 23:39|ACQUISTO|id=17211, cliente=7385, importo=496, prodotto=65
+2022-08-22 11:06|ACQUISTO|id=17212, cliente=7645, importo=854, prodotto=81
+2022-08-22 14:45|RECLAMO|########################################
+2022-08-22 15:12|ACQUISTO|id=17213, cliente=7551, importo=451, prodotto=200
+2022-08-22 19:33|ACQUISTO|id=17214, cliente=7513, importo=637, prodotto=85
+2022-08-22 19:45|ACQUISTO|id=17215, cliente=7513, importo=831, prodotto=32
+2022-08-22 21:03|ACQUISTO|id=17216, cliente=7362, importo=215, prodotto=131
+2022-08-22 21:21|TEST|########################################
+2022-08-23 09:24|LOGIN|########################################
+2022-08-23 13:42|ACQUISTO|id=17217, cliente=7385, importo=957, prodotto=41
+2022-08-23 14:15|ACQUISTO|id=17218, cliente=7513, importo=365, prodotto=21
+2022-08-23 16:06|RESO|########################################
+2022-08-23 17:30|RESO|########################################
+2022-08-23 22:21|LOGIN|########################################
+2022-08-24 10:57|LOGIN|########################################
+2022-08-24 12:21|LOGIN|########################################
+2022-08-24 16:30|RECLAMO|########################################
+2022-08-24 21:12|TEST|########################################
+2022-08-25 08:06|ACQUISTO|id=17219, cliente=7688, importo=621, prodotto=174
+2022-08-25 10:30|TEST|########################################
+2022-08-25 11:33|ACQUISTO|id=17220, cliente=7707, importo=621, prodotto=174
+2022-08-25 16:30|TEST|########################################
+2022-08-25 19:09|ACQUISTO|id=17221, cliente=7532, importo=574, prodotto=48
+2022-08-25 19:42|TEST|########################################
+2022-08-25 23:33|ACQUISTO|id=17222, cliente=7513, importo=451, prodotto=200
+2022-08-26 11:54|RESO|########################################
+2022-08-26 14:18|ACQUISTO|id=17223, cliente=7427, importo=683, prodotto=58
+2022-08-26 17:39|ACQUISTO|id=17224, cliente=7402, importo=181, prodotto=186
+2022-08-26 21:24|ACQUISTO|id=17225, cliente=7734, importo=902, prodotto=133
+2022-08-26 21:42|RECLAMO|########################################
+2022-08-26 23:27|ACQUISTO|id=17226, cliente=7362, importo=775, prodotto=187
+2022-08-27 08:33|CANCELLAZIONE|########################################
+2022-08-27 11:57|TEST|########################################
+2022-08-27 14:00|ACQUISTO|id=17227, cliente=7551, importo=142, prodotto=192
+2022-08-27 17:15|ACQUISTO|id=17228, cliente=7513, importo=108, prodotto=9
+2022-08-27 21:30|ACQUISTO|id=17229, cliente=7645, importo=827, prodotto=188
+2022-08-28 09:57|CANCELLAZIONE|########################################
+2022-08-28 11:36|ACQUISTO|id=17230, cliente=7639, importo=313, prodotto=17
+2022-08-28 14:00|ACQUISTO|id=17231, cliente=7513, importo=725, prodotto=72
+2022-08-28 17:39|TEST|########################################
+2022-08-28 20:30|ACQUISTO|id=17232, cliente=7532, importo=504, prodotto=159
+2022-08-29 08:15|ACQUISTO|id=17233, cliente=7532, importo=432, prodotto=96
+2022-08-29 13:12|ACQUISTO|id=17234, cliente=7532, importo=902, prodotto=133
+2022-08-29 16:21|ACQUISTO|id=17235, cliente=7450, importo=748, prodotto=99
+2022-08-29 18:00|ACQUISTO|id=17236, cliente=7583, importo=873, prodotto=192
+2022-08-29 18:21|LOGIN|########################################
+2022-08-29 20:42|ACQUISTO|id=17237, cliente=7688, importo=211, prodotto=12
+2022-08-29 22:54|ACQUISTO|id=17238, cliente=7583, importo=142, prodotto=192
+2022-08-30 09:09|LOGOUT|########################################
+2022-08-30 11:00|ACQUISTO|id=17239, cliente=7645, importo=827, prodotto=188
+2022-08-30 14:27|ACQUISTO|id=17240, cliente=7532, importo=855, prodotto=154
+2022-08-30 18:36|ACQUISTO|id=17241, cliente=7688, importo=752, prodotto=185
+2022-08-30 18:51|RECLAMO|########################################
+2022-08-30 22:36|ACQUISTO|id=17242, cliente=7486, importo=875, prodotto=68
+2022-08-30 23:15|TEST|########################################
+2022-08-30 23:42|ACQUISTO|id=17243, cliente=7645, importo=496, prodotto=65
+2022-08-31 11:00|ACQUISTO|id=17244, cliente=7427, importo=403, prodotto=82
+2022-08-31 14:24|ACQUISTO|id=17245, cliente=7385, importo=215, prodotto=131
+2022-08-31 16:39|ACQUISTO|id=17246, cliente=7499, importo=195, prodotto=54
+2022-08-31 17:54|TEST|########################################
+2022-08-31 22:39|TEST|########################################
+2022-09-01 10:57|ACQUISTO|id=17247, cliente=7427, importo=443, prodotto=50
+2022-09-01 14:42|ACQUISTO|id=17248, cliente=7610, importo=461, prodotto=138
+2022-09-01 15:18|ACQUISTO|id=17249, cliente=7551, importo=725, prodotto=72
+2022-09-01 19:45|ACQUISTO|id=17250, cliente=7583, importo=875, prodotto=68
+2022-09-01 21:00|LOGIN|########################################
+2022-09-01 23:33|ACQUISTO|id=17251, cliente=7499, importo=518, prodotto=141
+2022-09-02 10:12|RESO|########################################
+2022-09-02 12:54|ACQUISTO|id=17252, cliente=7645, importo=827, prodotto=188
+2022-09-02 15:24|RESO|########################################
+2022-09-02 15:30|ACQUISTO|id=17253, cliente=7639, importo=99, prodotto=186
+2022-09-02 19:36|ACQUISTO|id=17254, cliente=7402, importo=619, prodotto=24
+2022-09-02 22:27|ACQUISTO|id=17255, cliente=7402, importo=255, prodotto=160
+2022-09-03 10:24|ACQUISTO|id=17256, cliente=7639, importo=679, prodotto=72
+2022-09-03 13:42|ACQUISTO|id=17257, cliente=7513, importo=902, prodotto=133
+2022-09-03 17:54|CANCELLAZIONE|########################################
+2022-09-03 22:03|ACQUISTO|id=17258, cliente=7450, importo=145, prodotto=74
+2022-09-04 10:33|ACQUISTO|id=17259, cliente=7610, importo=991, prodotto=75
+2022-09-04 14:00|ACQUISTO|id=17260, cliente=7513, importo=619, prodotto=24
+2022-09-04 17:18|ACQUISTO|id=17261, cliente=7532, importo=965, prodotto=45
+2022-09-04 20:45|ACQUISTO|id=17262, cliente=7532, importo=195, prodotto=54
+2022-09-04 23:36|ACQUISTO|id=17263, cliente=7486, importo=145, prodotto=74
+2022-09-05 10:48|ACQUISTO|id=17264, cliente=7499, importo=574, prodotto=48
+2022-09-05 14:42|RESO|########################################
+2022-09-05 18:57|ACQUISTO|id=17265, cliente=7688, importo=880, prodotto=189
+2022-09-05 23:09|ACQUISTO|id=17266, cliente=7645, importo=458, prodotto=4
+2022-09-05 23:54|ACQUISTO|id=17267, cliente=7385, importo=144, prodotto=196
+2022-09-06 11:09|ACQUISTO|id=17268, cliente=7486, importo=225, prodotto=102
+2022-09-06 12:57|LOGOUT|########################################
+2022-09-06 17:24|LOGOUT|########################################
+2022-09-06 20:45|ACQUISTO|id=17269, cliente=7362, importo=289, prodotto=81
+2022-09-07 08:33|RECLAMO|########################################
+2022-09-07 10:42|ACQUISTO|id=17270, cliente=7707, importo=809, prodotto=69
+2022-09-07 13:18|ACQUISTO|id=17271, cliente=7385, importo=965, prodotto=45
+2022-09-07 16:18|ACQUISTO|id=17272, cliente=7645, importo=637, prodotto=85
+2022-09-07 21:12|ACQUISTO|id=17273, cliente=7639, importo=520, prodotto=54
+2022-09-07 23:24|ACQUISTO|id=17274, cliente=7513, importo=621, prodotto=174
+2022-09-08 09:54|LOGOUT|########################################
+2022-09-08 10:09|ACQUISTO|id=17275, cliente=7450, importo=725, prodotto=194
+2022-09-08 12:51|LOGIN|########################################
+2022-09-08 17:33|RESO|########################################
+2022-09-08 19:21|ACQUISTO|id=17276, cliente=7486, importo=108, prodotto=9
+2022-09-08 20:57|ACQUISTO|id=17277, cliente=7610, importo=637, prodotto=85
+2022-09-09 08:00|RESO|########################################
+2022-09-09 08:09|ACQUISTO|id=17278, cliente=7688, importo=374, prodotto=42
+2022-09-09 10:45|ACQUISTO|id=17279, cliente=7707, importo=748, prodotto=99
+2022-09-09 15:39|RESO|########################################
+2022-09-09 19:00|LOGOUT|########################################
+2022-09-09 20:30|LOGOUT|########################################
+2022-09-09 22:45|RECLAMO|########################################
+2022-09-10 08:57|ACQUISTO|id=17280, cliente=7486, importo=84, prodotto=6
+2022-09-10 09:06|ACQUISTO|id=17281, cliente=7734, importo=719, prodotto=194
+2022-09-10 11:54|ACQUISTO|id=17282, cliente=7551, importo=518, prodotto=141
+2022-09-10 12:39|ACQUISTO|id=17283, cliente=7499, importo=201, prodotto=174
+2022-09-10 16:57|ACQUISTO|id=17284, cliente=7427, importo=719, prodotto=194
+2022-09-10 17:09|ACQUISTO|id=17285, cliente=7486, importo=752, prodotto=185
+2022-09-10 20:30|ACQUISTO|id=17286, cliente=7707, importo=848, prodotto=181
+2022-09-10 23:57|LOGIN|########################################
+2022-09-11 08:39|ACQUISTO|id=17287, cliente=7551, importo=991, prodotto=75
+2022-09-11 11:00|RECLAMO|########################################
+2022-09-11 14:18|ACQUISTO|id=17288, cliente=7734, importo=22, prodotto=139
+2022-09-11 14:51|ACQUISTO|id=17289, cliente=7610, importo=827, prodotto=188
+2022-09-11 18:06|RESO|########################################
+2022-09-11 21:48|ACQUISTO|id=17290, cliente=7639, importo=374, prodotto=42
+2022-09-12 09:15|ACQUISTO|id=17291, cliente=7610, importo=496, prodotto=65
+2022-09-12 12:06|LOGIN|########################################
+2022-09-12 15:48|LOGIN|########################################
+2022-09-12 17:54|RECLAMO|########################################
+2022-09-12 21:09|ACQUISTO|id=17292, cliente=7583, importo=875, prodotto=68
+2022-09-12 22:21|ACQUISTO|id=17293, cliente=7362, importo=679, prodotto=72
+2022-09-12 22:27|RECLAMO|########################################
+2022-09-13 09:39|RESO|########################################
+2022-09-13 12:42|ACQUISTO|id=17294, cliente=7688, importo=863, prodotto=71
+2022-09-13 17:00|LOGOUT|########################################
+2022-09-13 17:15|LOGIN|########################################
+2022-09-13 18:24|ACQUISTO|id=17295, cliente=7427, importo=214, prodotto=164
+2022-09-13 20:15|ACQUISTO|id=17296, cliente=7385, importo=458, prodotto=4
+2022-09-14 08:36|CANCELLAZIONE|########################################
+2022-09-14 12:27|ACQUISTO|id=17297, cliente=7532, importo=827, prodotto=188
+2022-09-14 13:45|ACQUISTO|id=17298, cliente=7385, importo=388, prodotto=126
+2022-09-14 15:30|RESO|########################################
+2022-09-14 18:15|ACQUISTO|id=17299, cliente=7551, importo=638, prodotto=12
+2022-09-14 18:45|ACQUISTO|id=17300, cliente=7513, importo=142, prodotto=192
+2022-09-14 20:24|ACQUISTO|id=17301, cliente=7532, importo=957, prodotto=41
+2022-09-14 20:27|CANCELLAZIONE|########################################
+2022-09-14 20:39|LOGOUT|########################################
+2022-09-14 22:18|ACQUISTO|id=17302, cliente=7532, importo=719, prodotto=194
+2022-09-15 08:00|ACQUISTO|id=17303, cliente=7362, importo=809, prodotto=69
+2022-09-15 09:57|TEST|########################################
+2022-09-15 11:21|RESO|########################################
+2022-09-15 13:48|ACQUISTO|id=17304, cliente=7583, importo=169, prodotto=19
+2022-09-15 16:24|ACQUISTO|id=17305, cliente=7513, importo=748, prodotto=99
+2022-09-15 18:39|ACQUISTO|id=17306, cliente=7362, importo=257, prodotto=194
+2022-09-15 22:15|TEST|########################################
+2022-09-16 08:18|LOGIN|########################################
+2022-09-16 11:45|ACQUISTO|id=17307, cliente=7513, importo=679, prodotto=72
+2022-09-16 14:33|TEST|########################################
+2022-09-16 17:51|ACQUISTO|id=17308, cliente=7499, importo=722, prodotto=147
+2022-09-16 20:51|ACQUISTO|id=17309, cliente=7499, importo=225, prodotto=102
+2022-09-16 22:21|TEST|########################################
+2022-09-17 08:18|ACQUISTO|id=17310, cliente=7450, importo=434, prodotto=157
+2022-09-17 12:15|LOGOUT|########################################
+2022-09-17 16:00|ACQUISTO|id=17311, cliente=7688, importo=938, prodotto=68
+2022-09-17 16:54|ACQUISTO|id=17312, cliente=7734, importo=451, prodotto=200
+2022-09-17 18:33|LOGOUT|########################################
+2022-09-17 19:54|ACQUISTO|id=17313, cliente=7645, importo=854, prodotto=54
+2022-09-17 21:48|ACQUISTO|id=17314, cliente=7688, importo=214, prodotto=164
+2022-09-18 10:15|ACQUISTO|id=17315, cliente=7688, importo=221, prodotto=27
+2022-09-18 14:24|ACQUISTO|id=17316, cliente=7402, importo=725, prodotto=72
+2022-09-18 15:48|CANCELLAZIONE|########################################
+2022-09-18 18:00|ACQUISTO|id=17317, cliente=7427, importo=496, prodotto=65
+2022-09-18 21:12|ACQUISTO|id=17318, cliente=7513, importo=145, prodotto=74
+2022-09-18 22:30|CANCELLAZIONE|########################################
+2022-09-18 23:09|ACQUISTO|id=17319, cliente=7486, importo=22, prodotto=139
+2022-09-19 11:03|LOGIN|########################################
+2022-09-19 14:15|ACQUISTO|id=17320, cliente=7551, importo=809, prodotto=69
+2022-09-19 15:54|LOGOUT|########################################
+2022-09-19 18:00|RESO|########################################
+2022-09-19 22:15|ACQUISTO|id=17321, cliente=7513, importo=730, prodotto=91
+2022-09-20 08:12|LOGOUT|########################################
+2022-09-20 09:48|ACQUISTO|id=17322, cliente=7450, importo=22, prodotto=139
+2022-09-20 11:12|RESO|########################################
+2022-09-20 14:33|ACQUISTO|id=17323, cliente=7707, importo=114, prodotto=33
+2022-09-20 17:15|ACQUISTO|id=17324, cliente=7688, importo=606, prodotto=72
+2022-09-20 21:42|ACQUISTO|id=17325, cliente=7551, importo=138, prodotto=192
+2022-09-21 08:54|ACQUISTO|id=17326, cliente=7486, importo=12, prodotto=155
+2022-09-21 13:06|ACQUISTO|id=17327, cliente=7707, importo=365, prodotto=21
+2022-09-21 17:03|ACQUISTO|id=17328, cliente=7551, importo=725, prodotto=194
+2022-09-21 18:51|ACQUISTO|id=17329, cliente=7450, importo=108, prodotto=9
+2022-09-21 19:57|ACQUISTO|id=17330, cliente=7486, importo=757, prodotto=114
+2022-09-21 22:12|LOGOUT|########################################
+2022-09-22 10:33|CANCELLAZIONE|########################################
+2022-09-22 13:12|ACQUISTO|id=17331, cliente=7645, importo=221, prodotto=27
+2022-09-22 13:39|ACQUISTO|id=17332, cliente=7450, importo=313, prodotto=17
+2022-09-22 13:42|ACQUISTO|id=17333, cliente=7532, importo=527, prodotto=19
+2022-09-22 13:45|ACQUISTO|id=17334, cliente=7645, importo=215, prodotto=131
+2022-09-22 17:27|ACQUISTO|id=17335, cliente=7639, importo=875, prodotto=68
+2022-09-22 18:54|ACQUISTO|id=17336, cliente=7583, importo=619, prodotto=24
+2022-09-22 22:42|ACQUISTO|id=17337, cliente=7688, importo=667, prodotto=52
+2022-09-23 10:54|ACQUISTO|id=17338, cliente=7583, importo=667, prodotto=52
+2022-09-23 13:36|ACQUISTO|id=17339, cliente=7513, importo=619, prodotto=24
+2022-09-23 18:21|ACQUISTO|id=17340, cliente=7532, importo=888, prodotto=45
+2022-09-23 21:00|ACQUISTO|id=17341, cliente=7513, importo=108, prodotto=9
+2022-09-23 22:18|ACQUISTO|id=17342, cliente=7734, importo=99, prodotto=186
+2022-09-24 08:15|ACQUISTO|id=17343, cliente=7427, importo=880, prodotto=189
+2022-09-24 11:33|ACQUISTO|id=17344, cliente=7450, importo=520, prodotto=54
+2022-09-24 14:15|LOGIN|########################################
+2022-09-24 16:42|ACQUISTO|id=17345, cliente=7402, importo=432, prodotto=96
+2022-09-24 19:39|ACQUISTO|id=17346, cliente=7486, importo=863, prodotto=71
+2022-09-24 20:33|ACQUISTO|id=17347, cliente=7450, importo=775, prodotto=187
+2022-09-24 22:36|ACQUISTO|id=17348, cliente=7450, importo=965, prodotto=45
+2022-09-25 11:33|RESO|########################################
+2022-09-25 12:42|ACQUISTO|id=17349, cliente=7499, importo=809, prodotto=69
+2022-09-25 14:57|CANCELLAZIONE|########################################
+2022-09-25 17:51|ACQUISTO|id=17350, cliente=7610, importo=527, prodotto=19
+2022-09-25 19:24|ACQUISTO|id=17351, cliente=7385, importo=330, prodotto=139
+2022-09-25 23:24|RECLAMO|########################################
+2022-09-26 12:15|CANCELLAZIONE|########################################
+2022-09-26 12:57|RESO|########################################
+2022-09-26 16:03|RESO|########################################
+2022-09-26 18:12|ACQUISTO|id=17352, cliente=7450, importo=964, prodotto=2
+2022-09-26 22:39|LOGIN|########################################
+2022-09-27 08:57|ACQUISTO|id=17353, cliente=7639, importo=880, prodotto=189
+2022-09-27 13:51|ACQUISTO|id=17354, cliente=7645, importo=496, prodotto=65
+2022-09-27 15:09|RESO|########################################
+2022-09-27 17:12|ACQUISTO|id=17355, cliente=7734, importo=22, prodotto=139
+2022-09-27 19:03|ACQUISTO|id=17356, cliente=7486, importo=619, prodotto=24
+2022-09-27 23:09|ACQUISTO|id=17357, cliente=7450, importo=569, prodotto=4
+2022-09-28 09:45|CANCELLAZIONE|########################################
+2022-09-28 12:09|ACQUISTO|id=17358, cliente=7688, importo=22, prodotto=139
+2022-09-28 15:51|TEST|########################################
+2022-09-28 18:18|ACQUISTO|id=17359, cliente=7734, importo=621, prodotto=174
+2022-09-28 20:21|LOGIN|########################################
+2022-09-28 21:15|ACQUISTO|id=17360, cliente=7486, importo=225, prodotto=102
+2022-09-28 21:36|ACQUISTO|id=17361, cliente=7639, importo=225, prodotto=34
+2022-09-28 22:00|RECLAMO|########################################
+2022-09-28 22:33|LOGIN|########################################
+2022-09-29 10:45|ACQUISTO|id=17362, cliente=7532, importo=775, prodotto=187
+2022-09-29 13:57|ACQUISTO|id=17363, cliente=7499, importo=725, prodotto=194
+2022-09-29 16:48|RECLAMO|########################################
+2022-09-29 20:36|ACQUISTO|id=17364, cliente=7532, importo=461, prodotto=138
+2022-09-30 08:33|ACQUISTO|id=17365, cliente=7532, importo=902, prodotto=133
+2022-09-30 12:54|ACQUISTO|id=17366, cliente=7688, importo=145, prodotto=74
+2022-09-30 13:33|RECLAMO|########################################
+2022-09-30 16:33|ACQUISTO|id=17367, cliente=7427, importo=991, prodotto=75
+2022-09-30 17:48|ACQUISTO|id=17368, cliente=7532, importo=967, prodotto=11
+2022-09-30 19:06|LOGOUT|########################################
+2022-09-30 21:36|ACQUISTO|id=17369, cliente=7513, importo=434, prodotto=157
+2022-09-30 22:42|ACQUISTO|id=17370, cliente=7688, importo=211, prodotto=12
+2022-10-01 11:21|ACQUISTO|id=17371, cliente=7688, importo=557, prodotto=6
+2022-10-01 14:09|RECLAMO|########################################
+2022-10-01 16:00|ACQUISTO|id=17372, cliente=7639, importo=679, prodotto=72
+2022-10-01 19:12|ACQUISTO|id=17373, cliente=7402, importo=408, prodotto=135
+2022-10-01 21:00|ACQUISTO|id=17374, cliente=7532, importo=552, prodotto=10
+2022-10-01 21:33|ACQUISTO|id=17375, cliente=7639, importo=99, prodotto=186
+2022-10-01 23:09|ACQUISTO|id=17376, cliente=7450, importo=722, prodotto=147
+2022-10-01 23:45|CANCELLAZIONE|########################################
+2022-10-02 10:03|ACQUISTO|id=17377, cliente=7427, importo=863, prodotto=71
+2022-10-02 14:15|ACQUISTO|id=17378, cliente=7427, importo=854, prodotto=81
+2022-10-02 15:06|ACQUISTO|id=17379, cliente=7427, importo=725, prodotto=72
+2022-10-02 17:27|ACQUISTO|id=17380, cliente=7402, importo=408, prodotto=135
+2022-10-02 18:57|LOGOUT|########################################
+2022-10-02 23:57|ACQUISTO|id=17381, cliente=7362, importo=434, prodotto=157
+2022-10-03 09:15|ACQUISTO|id=17382, cliente=7707, importo=875, prodotto=68
+2022-10-03 10:06|LOGOUT|########################################
+2022-10-03 11:48|TEST|########################################
+2022-10-03 16:27|ACQUISTO|id=17383, cliente=7486, importo=984, prodotto=170
+2022-10-03 18:57|ACQUISTO|id=17384, cliente=7688, importo=520, prodotto=54
+2022-10-03 20:30|ACQUISTO|id=17385, cliente=7610, importo=211, prodotto=12
+2022-10-03 22:15|ACQUISTO|id=17386, cliente=7513, importo=880, prodotto=189
+2022-10-03 23:09|ACQUISTO|id=17387, cliente=7688, importo=637, prodotto=85
+2022-10-04 12:06|ACQUISTO|id=17388, cliente=7427, importo=748, prodotto=99
+2022-10-04 15:21|ACQUISTO|id=17389, cliente=7513, importo=991, prodotto=75
+2022-10-04 16:48|ACQUISTO|id=17390, cliente=7610, importo=84, prodotto=6
+2022-10-04 21:03|ACQUISTO|id=17391, cliente=7583, importo=374, prodotto=42
+2022-10-04 22:27|ACQUISTO|id=17392, cliente=7551, importo=855, prodotto=154
+2022-10-05 08:27|ACQUISTO|id=17393, cliente=7402, importo=289, prodotto=81
+2022-10-05 11:03|CANCELLAZIONE|########################################
+2022-10-05 11:57|LOGIN|########################################
+2022-10-05 12:03|RESO|########################################
+2022-10-05 14:48|CANCELLAZIONE|########################################
+2022-10-05 17:03|ACQUISTO|id=17394, cliente=7427, importo=117, prodotto=67
+2022-10-05 20:30|CANCELLAZIONE|########################################
+2022-10-06 08:39|LOGIN|########################################
+2022-10-06 09:03|ACQUISTO|id=17395, cliente=7402, importo=875, prodotto=68
+2022-10-06 09:45|ACQUISTO|id=17396, cliente=7402, importo=181, prodotto=186
+2022-10-06 14:03|LOGIN|########################################
+2022-10-06 16:57|RESO|########################################
+2022-10-06 17:15|ACQUISTO|id=17397, cliente=7532, importo=12, prodotto=155
+2022-10-06 20:36|ACQUISTO|id=17398, cliente=7610, importo=638, prodotto=12
+2022-10-06 21:03|ACQUISTO|id=17399, cliente=7513, importo=221, prodotto=27
+2022-10-07 08:18|RECLAMO|########################################
+2022-10-07 10:24|TEST|########################################
+2022-10-07 10:39|ACQUISTO|id=17400, cliente=7532, importo=850, prodotto=20
+2022-10-07 11:36|ACQUISTO|id=17401, cliente=7645, importo=169, prodotto=19
+2022-10-07 15:57|ACQUISTO|id=17402, cliente=7610, importo=520, prodotto=171
+2022-10-07 16:54|ACQUISTO|id=17403, cliente=7639, importo=79, prodotto=168
+2022-10-07 21:18|ACQUISTO|id=17404, cliente=7645, importo=535, prodotto=103
+2022-10-07 21:51|ACQUISTO|id=17405, cliente=7362, importo=79, prodotto=168
+2022-10-08 08:27|RECLAMO|########################################
+2022-10-08 11:03|RECLAMO|########################################
+2022-10-08 12:24|ACQUISTO|id=17406, cliente=7362, importo=725, prodotto=194
+2022-10-08 16:15|RECLAMO|########################################
+2022-10-08 20:57|CANCELLAZIONE|########################################
+2022-10-08 23:06|ACQUISTO|id=17407, cliente=7688, importo=751, prodotto=27
+2022-10-09 08:42|ACQUISTO|id=17408, cliente=7532, importo=451, prodotto=200
+2022-10-09 10:39|ACQUISTO|id=17409, cliente=7610, importo=518, prodotto=141
+2022-10-09 12:54|CANCELLAZIONE|########################################
+2022-10-09 16:42|ACQUISTO|id=17410, cliente=7513, importo=978, prodotto=149
+2022-10-09 17:57|ACQUISTO|id=17411, cliente=7427, importo=79, prodotto=168
+2022-10-09 20:03|ACQUISTO|id=17412, cliente=7707, importo=725, prodotto=72
+2022-10-09 22:18|TEST|########################################
+2022-10-09 23:42|TEST|########################################
+2022-10-10 10:45|CANCELLAZIONE|########################################
+2022-10-10 14:45|LOGOUT|########################################
+2022-10-10 16:03|ACQUISTO|id=17413, cliente=7402, importo=606, prodotto=72
+2022-10-10 20:48|ACQUISTO|id=17414, cliente=7707, importo=252, prodotto=5
+2022-10-10 22:45|ACQUISTO|id=17415, cliente=7427, importo=722, prodotto=147
+2022-10-11 08:09|RECLAMO|########################################
+2022-10-11 11:27|ACQUISTO|id=17416, cliente=7499, importo=850, prodotto=20
+2022-10-11 12:18|CANCELLAZIONE|########################################
+2022-10-11 14:30|ACQUISTO|id=17417, cliente=7362, importo=221, prodotto=27
+2022-10-11 19:24|ACQUISTO|id=17418, cliente=7583, importo=481, prodotto=3
+2022-10-12 08:00|ACQUISTO|id=17419, cliente=7499, importo=831, prodotto=32
+2022-10-12 08:45|ACQUISTO|id=17420, cliente=7362, importo=831, prodotto=32
+2022-10-12 13:24|ACQUISTO|id=17421, cliente=7532, importo=730, prodotto=91
+2022-10-12 17:48|ACQUISTO|id=17422, cliente=7645, importo=736, prodotto=119
+2022-10-12 22:27|ACQUISTO|id=17423, cliente=7532, importo=557, prodotto=6
+2022-10-12 23:30|ACQUISTO|id=17424, cliente=7499, importo=991, prodotto=75
+2022-10-13 12:09|ACQUISTO|id=17425, cliente=7513, importo=481, prodotto=3
+2022-10-13 12:21|ACQUISTO|id=17426, cliente=7645, importo=330, prodotto=139
+2022-10-13 14:48|ACQUISTO|id=17427, cliente=7707, importo=481, prodotto=3
+2022-10-13 15:12|ACQUISTO|id=17428, cliente=7402, importo=408, prodotto=135
+2022-10-13 16:33|RECLAMO|########################################
+2022-10-13 17:33|ACQUISTO|id=17429, cliente=7639, importo=278, prodotto=50
+2022-10-13 20:57|ACQUISTO|id=17430, cliente=7513, importo=408, prodotto=135
+2022-10-13 21:03|RECLAMO|########################################
+2022-10-13 22:36|CANCELLAZIONE|########################################
+2022-10-13 23:00|ACQUISTO|id=17431, cliente=7734, importo=108, prodotto=9
+2022-10-13 23:18|ACQUISTO|id=17432, cliente=7513, importo=888, prodotto=45
+2022-10-14 10:36|LOGOUT|########################################
+2022-10-14 10:51|ACQUISTO|id=17433, cliente=7645, importo=880, prodotto=189
+2022-10-14 13:51|TEST|########################################
+2022-10-14 16:30|ACQUISTO|id=17434, cliente=7450, importo=964, prodotto=2
+2022-10-14 20:48|TEST|########################################
+2022-10-14 21:24|ACQUISTO|id=17435, cliente=7486, importo=745, prodotto=62
+2022-10-14 22:06|ACQUISTO|id=17436, cliente=7583, importo=144, prodotto=196
+2022-10-14 22:18|ACQUISTO|id=17437, cliente=7532, importo=520, prodotto=171
+2022-10-15 09:27|ACQUISTO|id=17438, cliente=7688, importo=957, prodotto=41
+2022-10-15 14:15|ACQUISTO|id=17439, cliente=7707, importo=965, prodotto=45
+2022-10-15 17:48|ACQUISTO|id=17440, cliente=7734, importo=621, prodotto=174
+2022-10-15 20:03|ACQUISTO|id=17441, cliente=7362, importo=257, prodotto=194
+2022-10-15 20:51|ACQUISTO|id=17442, cliente=7402, importo=957, prodotto=41
+2022-10-15 22:27|ACQUISTO|id=17443, cliente=7583, importo=957, prodotto=41
+2022-10-15 23:51|ACQUISTO|id=17444, cliente=7513, importo=99, prodotto=186
+2022-10-16 11:54|ACQUISTO|id=17445, cliente=7402, importo=211, prodotto=12
+2022-10-16 12:00|RESO|########################################
+2022-10-16 13:51|ACQUISTO|id=17446, cliente=7385, importo=181, prodotto=186
+2022-10-16 17:57|ACQUISTO|id=17447, cliente=7532, importo=99, prodotto=186
+2022-10-16 18:48|ACQUISTO|id=17448, cliente=7499, importo=22, prodotto=139
+2022-10-16 21:51|RESO|########################################
+2022-10-17 09:06|CANCELLAZIONE|########################################
+2022-10-17 12:54|ACQUISTO|id=17449, cliente=7707, importo=775, prodotto=187
+2022-10-17 14:54|ACQUISTO|id=17450, cliente=7450, importo=504, prodotto=159
+2022-10-17 18:30|ACQUISTO|id=17451, cliente=7734, importo=827, prodotto=188
+2022-10-17 23:03|TEST|########################################
+2022-10-18 11:42|ACQUISTO|id=17452, cliente=7707, importo=443, prodotto=50
+2022-10-18 14:33|CANCELLAZIONE|########################################
+2022-10-18 14:48|CANCELLAZIONE|########################################
+2022-10-18 16:48|ACQUISTO|id=17453, cliente=7645, importo=330, prodotto=139
+2022-10-18 21:45|TEST|########################################
+2022-10-19 09:12|ACQUISTO|id=17454, cliente=7486, importo=574, prodotto=48
+2022-10-19 10:33|ACQUISTO|id=17455, cliente=7486, importo=527, prodotto=19
+2022-10-19 15:33|RESO|########################################
+2022-10-19 17:15|ACQUISTO|id=17456, cliente=7450, importo=225, prodotto=34
+2022-10-19 21:06|LOGIN|########################################
+2022-10-20 10:00|ACQUISTO|id=17457, cliente=7402, importo=142, prodotto=192
+2022-10-20 11:33|RESO|########################################
+2022-10-20 16:33|ACQUISTO|id=17458, cliente=7583, importo=138, prodotto=192
+2022-10-20 19:09|CANCELLAZIONE|########################################
+2022-10-20 20:03|ACQUISTO|id=17459, cliente=7362, importo=221, prodotto=27
+2022-10-20 20:27|RECLAMO|########################################
+2022-10-20 23:54|ACQUISTO|id=17460, cliente=7499, importo=855, prodotto=154
+2022-10-21 12:06|LOGIN|########################################
+2022-10-21 15:45|ACQUISTO|id=17461, cliente=7688, importo=637, prodotto=85
+2022-10-21 19:57|RECLAMO|########################################
+2022-10-22 08:33|TEST|########################################
+2022-10-22 12:12|ACQUISTO|id=17462, cliente=7639, importo=752, prodotto=185
+2022-10-22 15:24|ACQUISTO|id=17463, cliente=7551, importo=313, prodotto=17
+2022-10-22 19:24|ACQUISTO|id=17464, cliente=7532, importo=79, prodotto=168
+2022-10-22 20:00|ACQUISTO|id=17465, cliente=7499, importo=637, prodotto=85
+2022-10-22 20:21|ACQUISTO|id=17466, cliente=7583, importo=752, prodotto=185
+2022-10-22 23:12|ACQUISTO|id=17467, cliente=7645, importo=875, prodotto=68
+2022-10-23 12:09|ACQUISTO|id=17468, cliente=7688, importo=403, prodotto=82
+2022-10-23 16:33|ACQUISTO|id=17469, cliente=7499, importo=84, prodotto=6
+2022-10-23 19:12|ACQUISTO|id=17470, cliente=7583, importo=403, prodotto=82
+2022-10-23 20:15|CANCELLAZIONE|########################################
+2022-10-23 22:12|ACQUISTO|id=17471, cliente=7688, importo=481, prodotto=3
+2022-10-24 08:39|RESO|########################################
+2022-10-24 11:39|TEST|########################################
+2022-10-24 15:27|ACQUISTO|id=17472, cliente=7551, importo=725, prodotto=72
+2022-10-24 16:12|ACQUISTO|id=17473, cliente=7734, importo=984, prodotto=170
+2022-10-24 18:03|ACQUISTO|id=17474, cliente=7499, importo=880, prodotto=189
+2022-10-24 20:45|ACQUISTO|id=17475, cliente=7362, importo=965, prodotto=45
+2022-10-24 22:27|CANCELLAZIONE|########################################
+2022-10-24 23:03|ACQUISTO|id=17476, cliente=7513, importo=82, prodotto=74
+2022-10-24 23:51|ACQUISTO|id=17477, cliente=7499, importo=432, prodotto=96
+2022-10-25 11:45|TEST|########################################
+2022-10-25 14:03|TEST|########################################
+2022-10-25 17:15|ACQUISTO|id=17478, cliente=7551, importo=827, prodotto=188
+2022-10-25 21:18|LOGIN|########################################
+2022-10-25 21:54|CANCELLAZIONE|########################################
+2022-10-26 09:18|ACQUISTO|id=17479, cliente=7610, importo=748, prodotto=99
+2022-10-26 10:09|CANCELLAZIONE|########################################
+2022-10-26 12:33|ACQUISTO|id=17480, cliente=7402, importo=552, prodotto=10
+2022-10-26 16:15|ACQUISTO|id=17481, cliente=7385, importo=432, prodotto=96
+2022-10-26 18:24|ACQUISTO|id=17482, cliente=7583, importo=775, prodotto=187
+2022-10-26 20:18|ACQUISTO|id=17483, cliente=7362, importo=559, prodotto=190
+2022-10-27 08:36|RECLAMO|########################################
+2022-10-27 11:00|ACQUISTO|id=17484, cliente=7734, importo=725, prodotto=72
+2022-10-27 11:33|ACQUISTO|id=17485, cliente=7551, importo=730, prodotto=91
+2022-10-27 15:18|ACQUISTO|id=17486, cliente=7707, importo=181, prodotto=186
+2022-10-27 19:42|ACQUISTO|id=17487, cliente=7499, importo=443, prodotto=50
+2022-10-27 20:21|LOGIN|########################################
+2022-10-27 23:39|ACQUISTO|id=17488, cliente=7450, importo=725, prodotto=72
+2022-10-28 11:42|RESO|########################################
+2022-10-28 12:24|ACQUISTO|id=17489, cliente=7583, importo=902, prodotto=133
+2022-10-28 16:30|RECLAMO|########################################
+2022-10-28 18:00|CANCELLAZIONE|########################################
+2022-10-28 18:06|ACQUISTO|id=17490, cliente=7688, importo=831, prodotto=32
+2022-10-28 21:57|ACQUISTO|id=17491, cliente=7513, importo=719, prodotto=194
+2022-10-28 22:48|ACQUISTO|id=17492, cliente=7450, importo=142, prodotto=192
+2022-10-28 23:36|ACQUISTO|id=17493, cliente=7385, importo=84, prodotto=6
+2022-10-29 11:54|ACQUISTO|id=17494, cliente=7734, importo=432, prodotto=96
+2022-10-29 12:12|ACQUISTO|id=17495, cliente=7688, importo=225, prodotto=102
+2022-10-29 12:39|ACQUISTO|id=17496, cliente=7513, importo=751, prodotto=27
+2022-10-29 15:21|ACQUISTO|id=17497, cliente=7532, importo=214, prodotto=164
+2022-10-29 17:27|ACQUISTO|id=17498, cliente=7486, importo=569, prodotto=4
+2022-10-29 17:57|CANCELLAZIONE|########################################
+2022-10-29 20:48|RECLAMO|########################################
+2022-10-29 20:51|LOGIN|########################################
+2022-10-29 21:39|ACQUISTO|id=17499, cliente=7427, importo=481, prodotto=3
+2022-10-29 21:48|ACQUISTO|id=17500, cliente=7402, importo=434, prodotto=157
+2022-10-30 09:12|ACQUISTO|id=17501, cliente=7734, importo=873, prodotto=192
+2022-10-30 11:09|ACQUISTO|id=17502, cliente=7645, importo=854, prodotto=81
+2022-10-30 15:00|ACQUISTO|id=17503, cliente=7362, importo=195, prodotto=54
+2022-10-30 17:54|LOGOUT|########################################
+2022-10-30 18:45|ACQUISTO|id=17504, cliente=7532, importo=736, prodotto=119
+2022-10-30 18:54|CANCELLAZIONE|########################################
+2022-10-30 19:51|ACQUISTO|id=17505, cliente=7688, importo=875, prodotto=68
+2022-10-30 23:48|ACQUISTO|id=17506, cliente=7362, importo=863, prodotto=71
+2022-10-31 08:27|ACQUISTO|id=17507, cliente=7499, importo=79, prodotto=168
+2022-10-31 09:48|ACQUISTO|id=17508, cliente=7551, importo=225, prodotto=34
+2022-10-31 13:45|LOGIN|########################################
+2022-10-31 15:42|ACQUISTO|id=17509, cliente=7639, importo=967, prodotto=11
+2022-10-31 20:03|ACQUISTO|id=17510, cliente=7385, importo=619, prodotto=24
+2022-10-31 22:21|ACQUISTO|id=17511, cliente=7513, importo=943, prodotto=118
+2022-10-31 23:03|RESO|########################################
+2022-11-01 09:54|ACQUISTO|id=17512, cliente=7362, importo=552, prodotto=10
+2022-11-01 14:39|ACQUISTO|id=17513, cliente=7385, importo=257, prodotto=194
+2022-11-01 16:42|ACQUISTO|id=17514, cliente=7688, importo=619, prodotto=24
+2022-11-01 21:09|ACQUISTO|id=17515, cliente=7402, importo=313, prodotto=17
+2022-11-01 23:54|ACQUISTO|id=17516, cliente=7427, importo=938, prodotto=68
+2022-11-02 09:30|ACQUISTO|id=17517, cliente=7402, importo=535, prodotto=103
+2022-11-02 11:54|ACQUISTO|id=17518, cliente=7532, importo=278, prodotto=50
+2022-11-02 13:27|LOGIN|########################################
+2022-11-02 13:33|LOGIN|########################################
+2022-11-02 18:18|ACQUISTO|id=17519, cliente=7513, importo=827, prodotto=188
+2022-11-02 20:09|LOGOUT|########################################
+2022-11-02 20:18|LOGIN|########################################
+2022-11-02 21:03|LOGIN|########################################
+2022-11-02 23:00|ACQUISTO|id=17520, cliente=7639, importo=978, prodotto=149
+2022-11-03 08:00|LOGOUT|########################################
+2022-11-03 10:30|ACQUISTO|id=17521, cliente=7486, importo=943, prodotto=118
+2022-11-03 15:18|ACQUISTO|id=17522, cliente=7645, importo=504, prodotto=159
+2022-11-03 18:21|ACQUISTO|id=17523, cliente=7551, importo=569, prodotto=4
+2022-11-03 18:45|ACQUISTO|id=17524, cliente=7551, importo=211, prodotto=12
+2022-11-03 20:18|TEST|########################################
+2022-11-03 21:33|ACQUISTO|id=17525, cliente=7645, importo=365, prodotto=21
+2022-11-03 22:48|LOGOUT|########################################
+2022-11-04 08:09|ACQUISTO|id=17526, cliente=7734, importo=854, prodotto=81
+2022-11-04 09:06|ACQUISTO|id=17527, cliente=7610, importo=751, prodotto=27
+2022-11-04 09:12|CANCELLAZIONE|########################################
+2022-11-04 14:09|ACQUISTO|id=17528, cliente=7583, importo=99, prodotto=186
+2022-11-04 18:00|ACQUISTO|id=17529, cliente=7513, importo=730, prodotto=91
+2022-11-04 21:15|ACQUISTO|id=17530, cliente=7707, importo=967, prodotto=11
+2022-11-05 09:03|RESO|########################################
+2022-11-05 12:57|ACQUISTO|id=17531, cliente=7610, importo=461, prodotto=138
+2022-11-05 14:51|ACQUISTO|id=17532, cliente=7450, importo=144, prodotto=196
+2022-11-05 15:36|ACQUISTO|id=17533, cliente=7639, importo=850, prodotto=20
+2022-11-05 18:00|ACQUISTO|id=17534, cliente=7427, importo=144, prodotto=196
+2022-11-05 22:15|ACQUISTO|id=17535, cliente=7688, importo=730, prodotto=91
+2022-11-06 09:51|ACQUISTO|id=17536, cliente=7385, importo=873, prodotto=192
+2022-11-06 11:00|ACQUISTO|id=17537, cliente=7499, importo=138, prodotto=192
+2022-11-06 12:03|ACQUISTO|id=17538, cliente=7402, importo=520, prodotto=171
+2022-11-06 12:15|ACQUISTO|id=17539, cliente=7610, importo=606, prodotto=72
+2022-11-06 13:36|RESO|########################################
+2022-11-06 17:09|ACQUISTO|id=17540, cliente=7486, importo=432, prodotto=96
+2022-11-06 20:18|ACQUISTO|id=17541, cliente=7450, importo=854, prodotto=81
+2022-11-06 21:30|ACQUISTO|id=17542, cliente=7734, importo=854, prodotto=54
+2022-11-06 23:54|ACQUISTO|id=17543, cliente=7532, importo=637, prodotto=85
+2022-11-07 09:06|LOGIN|########################################
+2022-11-07 10:27|TEST|########################################
+2022-11-07 11:06|RESO|########################################
+2022-11-07 13:54|ACQUISTO|id=17544, cliente=7532, importo=443, prodotto=50
