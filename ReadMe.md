@@ -22,8 +22,8 @@ create table acquisti (
     id int not null auto_increment primary key,
     idcliente int not null,
     importo int not null,
-    prodotto int not null,
-    foreign key (idcliente) references clienti(id)
+    prodotto int not null -- ,
+    -- foreign key (idcliente) references clienti(id)
     );
 alter table clienti add timestamp varchar(20) not null;
 alter table acquisti add timestamp varchar(20) not null;

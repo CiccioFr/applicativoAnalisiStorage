@@ -26,7 +26,7 @@ public class ApplicativoAnalisiStorage {
                 List recordsDelLog = CaricaFileLog.leggiLog(tastiera.nextLine());
                 System.out.println(" 1)  File Letto, - Creo la Lista di clienti");
 
-                List<Cliente> clienti = CaricaFileLog.salvaClienti(recordsDelLog);
+                List<Cliente> clienti = CaricaFileLog.listaClienti(recordsDelLog);
                 System.out.println(" 2)  Lista di clienti creata -> Li salvo di DataBase");
 
                 GestClienti.putClienti(clienti);

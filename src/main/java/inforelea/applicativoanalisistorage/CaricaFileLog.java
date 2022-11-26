@@ -17,9 +17,9 @@ import java.util.Map;
 public class CaricaFileLog {
 
     /**
-     * Carica in List il contenuto di fule Log a scelta dell'utente
+     * Carica in List il contenuto del file Log indicato dall'utente
      *
-     * @param percorsoFile path/filename del fiel da caricare
+     * @param percorsoFile path/filename del file da caricare
      * @return List del contenuto del file
      */
     public static List<String[]> leggiLog(String percorsoFile) {
@@ -53,14 +53,15 @@ public class CaricaFileLog {
     }
 
     /**
-     * Tra le righe della lista fornita come parametro d'ingresso, prendo in
+     * Della List generata dal file log, prendo in
      * considerazione solo quelle dei clienti rigistrati
      *
-     * @param records List del file log
+     * @param records List dei record del file log
+     * @return List di clienti
      */
-    public static List<Cliente> salvaClienti(List<String[]> records) {
+    public static List<Cliente> listaClienti(List<String[]> records) {
         List<Cliente> clienti = new ArrayList();
-        int cnt = 0;
+        int cnt = 0; // contatore dei clienti caricati
 
         for (String[] record : records) {
             System.out.println("Leggo record della lista" + record[1]);   // OK
@@ -70,8 +71,10 @@ public class CaricaFileLog {
                 String[] datoKeyValue = null;
                 cnt++;
 
+                // data di registrazione (creazione account) dell'utente
                 cliente.setTimestamp(record[0]);
 
+                // dati personali dell'utente
                 String[] datiPersonaliCliente = record[2].split(",");
                 System.out.println("dato Cliente" + datiPersonaliCliente[0]);       //  feedback
                 String[] infoCodice = datiPersonaliCliente[0].split("=");
@@ -89,7 +92,14 @@ public class CaricaFileLog {
         return clienti;
     }
 
-    public static List<Acquisto> salvaOrdini(List<String[]> records) {
+    /**
+     * Della List generata dal file log, prendo in
+     * considerazione solo quelle degli ordini
+     *
+     * @param records List dei record del file log
+     * @return 
+     */
+    public static List<Acquisto> listaOrdini(List<String[]> records) {
         List<Acquisto> ordini = new ArrayList();
         int cnt = 0;
 
@@ -109,7 +119,7 @@ public class CaricaFileLog {
                 String[] infoImporto = datiOrdine[2].split("=");
                 String[] infoProdotto = datiOrdine[2].split("=");
                 
-                ordine.setIdcliente(Integer.parseInt(infoIdCliente[1]) );
+                //ordine.setIdcliente(Integer.parseInt(infoIdCliente[1]) );
                 ordine.setImporto(Integer.parseInt(infoImporto[1]) );
                 ordine.setProdotto(Integer.parseInt(infoProdotto[1]) );
                 

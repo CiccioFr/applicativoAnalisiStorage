@@ -5,9 +5,7 @@
 package inforelea.applicativoanalisistorage.db;
 
 import java.io.Serializable;
-import java.util.Collection;
 import javax.persistence.Basic;
-import javax.persistence.CascadeType;
 import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
@@ -15,14 +13,12 @@ import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.NamedQueries;
 import javax.persistence.NamedQuery;
-import javax.persistence.OneToMany;
 import javax.persistence.Table;
 import javax.xml.bind.annotation.XmlRootElement;
-import javax.xml.bind.annotation.XmlTransient;
 
 /**
  *
- * @author WS2
+ * @author Fra
  */
 @Entity
 @Table(name = "clienti")
@@ -54,8 +50,6 @@ public class Cliente implements Serializable {
     @Basic(optional = false)
     @Column(name = "timestamp")
     private String timestamp;
-    @OneToMany(cascade = CascadeType.ALL, mappedBy = "idcliente")
-    private Collection<Acquisto> acquistoCollection;
 
     public Cliente() {
     }
@@ -110,15 +104,6 @@ public class Cliente implements Serializable {
 
     public void setTimestamp(String timestamp) {
         this.timestamp = timestamp;
-    }
-
-    @XmlTransient
-    public Collection<Acquisto> getAcquistoCollection() {
-        return acquistoCollection;
-    }
-
-    public void setAcquistoCollection(Collection<Acquisto> acquistoCollection) {
-        this.acquistoCollection = acquistoCollection;
     }
 
     @Override
